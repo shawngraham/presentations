@@ -23,7 +23,11 @@ I'm so sorry.
 
 ---
 
-Psst: Let me tell you a secret: Academics fail *all the time*
+_Psst_: Let me tell you a secret.
+
+---
+
+Academics fail *all the time*
 
 ---
 
