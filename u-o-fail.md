@@ -1,6 +1,7 @@
 <section data-background="https://pbs.twimg.com/media/ChyjBzpXEAAqEhQ.jpg">
-# Oops
+<h1>Oops</h1>
 </section>
+
 ---
 
 ## I did it again.
@@ -41,7 +42,7 @@ Project for today:
 
 ---
 
-#### The parable of heritagecrowd
+## The parable of heritagecrowd
 
 <table>
   <tr>
@@ -65,7 +66,7 @@ I found the answer in the community to which I wasn't sure I yet belonged.
 
 ---
 
-### The Lesson?
+## The Lesson?
 
 ---
 
@@ -91,6 +92,8 @@ Where might it fit on the taxonomy?
 
 But failing in public can be a function of privilege
 
+---
+
 ## so professors: make it safe to fail
 
 ## students: swing for the bleachers!
@@ -108,5 +111,6 @@ Note:
 Sharing my fails in public has led to more opportunities for me than I could ever have imagined.
 
 ---
-
-# Fail Gloriously
+<section data-background="https://pbs.twimg.com/media/C9r1JMYWsAIGSqn.jpg">
+<h1>Fail Gloriously</h1>
+</section>
