@@ -1,5 +1,6 @@
+<section data-background="https://pbs.twimg.com/media/ChyjBzpXEAAqEhQ.jpg">
 # Oops
-
+</section>
 ---
 
 ## I did it again.
@@ -64,7 +65,7 @@ I found the answer in the community to which I wasn't sure I yet belonged.
 
 ---
 
-The Lesson?
+### The Lesson?
 
 ---
 
