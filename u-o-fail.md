@@ -12,7 +12,7 @@ _or_
 
 ---
 
-How I learned to fail in public and live to tell the tale
+### How I learned to fail in public and live to tell the tale
 
 Shawn Graham, Carleton U
 [@electricarchaeo](http://twitter.com/@electricarchaeo)
@@ -88,6 +88,11 @@ I found the answer in the community to which I wasn't sure I yet belonged.
 Where might it fit on the taxonomy?
 
 ---
+<section data-background="https://pbs.twimg.com/card_img/852951523541696516/2ev1wk-J?format=jpg&name=600x314">
+<h1>.</h1>
+</section>
+
+---
 ## a fail shared is not a failure
 
 But failing in public can be a function of privilege
@@ -112,5 +117,5 @@ Sharing my fails in public has led to more opportunities for me than I could eve
 
 ---
 <section data-background="https://pbs.twimg.com/media/C9r1JMYWsAIGSqn.jpg">
-<h1>Fail Gloriously</h1>
+<h1>.</h1>
 </section>
