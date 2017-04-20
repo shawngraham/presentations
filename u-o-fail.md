@@ -1,16 +1,19 @@
-## Oops
+# Oops
 
 ---
 
-I did it again.
+## I did it again.
 
 ---
 
-or
+_or_
 
 ---
 
 How I learned to fail in public and live to tell the tale
+
+Shawn Graham, Carleton U
+[@electricarchaeo](http://twitter.com/@electricarchaeo)
 
 ---
 
@@ -18,7 +21,7 @@ I'm so sorry.
 
 ---
 
-Psst: Tell you a secret: Academics fail *all the time*
+Psst: Let me tell you a secret: Academics fail *all the time*
 
 ---
 
@@ -26,7 +29,14 @@ Psst: Tell you a secret: Academics fail *all the time*
 
 ---
 
-The Parable of Heritage Crowd
+Project for today:
+
++ the parable of Heritage Crowd
++ the Lunatick Moment
+  + quite possibly, some other fails too
++ a taxonomy of fails
++ fail & privilege
++ fail gloriously
 
 ---
 
@@ -58,10 +68,6 @@ The Lesson?
 
 ---
 
-Typology of Fail
-
-----
-
 ## A taxonomy of fails
 
 1 - Technological Failure<br>
@@ -82,6 +88,12 @@ Where might it fit on the taxonomy?
 ---
 ## a fail shared is not a failure
 
+But failing in public can be a function of privilege
+
+## so professors: make it safe to fail
+
+## students: swing for the bleachers!
+
 Note:
 + A fail shared is not a failure
 + A fail shared lets us all move forward
@@ -93,3 +105,7 @@ Note:
 
 Note:
 Sharing my fails in public has led to more opportunities for me than I could ever have imagined.
+
+---
+
+# Fail Gloriously
