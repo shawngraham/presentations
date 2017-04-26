@@ -57,6 +57,10 @@ Project for today:
 
 ---
 
+## The Lesson?
+
+--
+
 ## The Lunatick Moment
 
 I found the answer in the community to which I wasn't sure I yet belonged.
@@ -67,10 +71,6 @@ I found the answer in the community to which I wasn't sure I yet belonged.
     <th align="top">![redemption2](failpics/redemption2.png)</th>
   </tr>
 </table>
-
----
-
-## The Lesson?
 
 ---
 
