@@ -15,7 +15,8 @@ _or_
 ### How I learned to fail in public and live to tell the tale
 
 Shawn Graham, Carleton U
-[@electricarchaeo](http://twitter.com/@electricarchaeo)
+[@electricarchaeo](http://twitter.com/@electricarchaeo)<br>
+follow along at http://bit.ly/2oLLBJb
 
 ---
 
@@ -93,7 +94,7 @@ Where might it fit on the taxonomy?
 
 ---
 <section data-background="https://pbs.twimg.com/card_img/852951523541696516/2ev1wk-J?format=jpg&name=600x314">
-<h1>.</h1>
+<h3>.</h3>
 </section>
 
 ---
@@ -121,5 +122,5 @@ Sharing my fails in public has led to more opportunities for me than I could eve
 
 ---
 <section data-background="https://pbs.twimg.com/media/C9r1JMYWsAIGSqn.jpg">
-<h1>.</h1>
+<h3>.</h3>
 </section>
