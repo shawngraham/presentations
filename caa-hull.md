@@ -1,8 +1,9 @@
-<section data-background="https://github.com/shawngraham/presentations/blob/gh-pages/3st.jpg">
-<h2><br><br>Failing Gloriously & Teaching Digital Archaeology</h2>
+<section data-background="https://github.com/shawngraham/presentations/blob/gh-pages/3st.jpg?raw=true">
+<br><br><br><h2>Failing Gloriously & Teaching Digital Archaeology</h2>
 </section>
 ---
-![mib](https://github.com/shawngraham/presentations/blob/gh-pages/finishedwithexams)
+
+![mib](https://github.com/shawngraham/presentations/blob/gh-pages/finishedwithexams?raw=true)
 
 Note:
 I am dissatisfied with the standard model of assessing university work. how we've trained students to expect
@@ -12,15 +13,16 @@ final, (regurgitate).
 Rinse. Repeat.
 This system is not one that encourages risk-taking. it does not encourage swinging for the bleachers. It does not encourage serendipity, or growth, or the ability to learn. It does encourage careful conformity to expectations.
 ---
-<section data-background="https://github.com/shawngraham/presentations/blob/gh-pages/deepdreampompeii.png">
+
+<section data-background="https://github.com/shawngraham/presentations/blob/gh-pages/deepdreampompeii.png?raw=true">
 </section>
 
 Note:
 This is especially the case when we teach digital archaeology: not, computation in the service of archaeological goals, but: computation as a deformation, as a creative pursuit, as a way of seeing the past differently. as a pivot away from existing systems of hierarchy and power: of making code and data available, for remixing & re-examination. Of open science. Open data. Open access.
 
 ---
-<section data-background="https://github.com/shawngraham/presentations/blob/gh-pages/stairbikes.png">
-</section>
+
+![image](https://github.com/shawngraham/presentations/blob/gh-pages/stairbikes.png?raw=true)
 
 Note:
 We all have stories where we learned from something that went horribly wrong. or from projects we did that we had to get special permission to do. things that didn't quite fit the syllabus as received. serendipity.
@@ -40,7 +42,6 @@ if we design for glorious failure from the outset, I think we will have more eff
   - lessons learned & the design of the Open Digital Archaeology Textbook
   - O Glorious Failure!
 
-
 ---
 
 ## My own teaching fails
@@ -54,10 +55,9 @@ Fear of Failure – we have not taught students how to fail productively. we hav
 
 Tech tutorials are *awful* and I’m guilty of this as anyone: see http://workbook.craftingdigitalhistory.ca
 
----
+Note:
 Tech changes too rapidly, and the kinds of machines that students are sold are not necessarily the kind that can be usefully employed in this work. I’ve had students turn up to my dataviz DH course with nothing more than an iPad mini. I also end up spending two or three weeks solid getting everyone’s machine properly configured.
-
-My mom thinks I mostly do tech support. She’s mostly right.
+- My mom thinks I mostly do tech support. She’s mostly right.
 
 ---
 
@@ -113,8 +113,7 @@ Note: Do we *ever* talk about research that *doesn’t* confirm an hypothesis? D
 ![image](http://www.dayofarchaeology.com/wp-content/uploads/2016/07/oc-cu-prize1.jpg)
 
 Note:
-another fail: the carleton prizes
-Incentives!, we thought, the good neoliberal dh-tools that we are. We offered real money – up to a $1000 in prizes. We promoted the hang out of it. We made films, we wrote tutorials, we contacted professors across the anglosphere.
+another fail the carleton prizes. Incentives!, we thought, the good neoliberal dh-tools that we are. We offered real money – up to a $1000 in prizes. We promoted the hang out of it. We made films, we wrote tutorials, we contacted professors across the anglosphere.
 
 —--
 
@@ -145,19 +144,19 @@ https://github.com/ropensci/historydata).
 
 ---
 
-![](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvard/datasetropensci.png)
+![](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvard/datasetropensci.png?raw=true)
 
 Lincoln’s work builds capacity in others.
 
 ---
 
-![image](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvardpics/worksheets.png)
+![image](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvardpics/worksheets.png?raw=true)
 
 Lincoln’s work is shared, and it’s explicitly about teaching how to use the materials he’s pulling together [in his teaching](http://lincolnmullen.com/projects/worksheets/)
 
 ---
 
-![](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvardpics/demonotebook.png)
+![](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvardpics/demonotebook.png?raw=true)
 
 Lincoln addresses how to get your materials online in a format that others can then [use](https://lmullen.github.io/rmd-notebook/)
 
@@ -166,8 +165,7 @@ Lincoln addresses how to get your materials online in a format that others can t
 # Ok, so what do we do?
 
 Note:
-We turn our teaching inside out. We do it in public. I’m not talking about MOOCs, though I suppose they have a role here, as educational tourism.
-No, I mean, we literally put all of our teaching out there and invite the public to take part alongside our formal students
+We turn our teaching inside out. We do it in public. I’m not talking about MOOCs, though I suppose they have a role here, as educational tourism. No, I mean, we literally put all of our teaching out there and invite the public to take part alongside our formal students
 
 —--
 
@@ -191,6 +189,7 @@ Note:
 this will be dangerous. you’re a white male? put that to use. get out there and take risks, and make it safe for others to do so too.
 
 —--
+
 <section data-background="https://c2.staticflickr.com/2/1707/23984493743_b8310f5be4_c.jpg">
 
 <small> Steampunk, by  Robert Björkén https://www.flickr.com/photos/robertbjork/23984493743/ </small>
@@ -200,6 +199,7 @@ Note:
 And it will require special tools. I’m building one right now with Neha Gupta, Michael Carter, and Beth Compton.
 
 —--
+
 # ODATE
 
 ### The Open Digital Archaeology Textbook Environment
@@ -225,7 +225,7 @@ you can't break it. You don't have to do tech support to get students using it. 
 
 --
 <section data-background="https://github.com/shawngraham/presentations/blob/gh-pages/lumberjacks.png?raw=true">
-<h1>FAILING GLORIOUSLY</h1>
+<h3>FAILING GLORIOUSLY</h3>
 
 <ul>Makes it safe to try things out.</ul>
 <ul>Makes a framework for process, rather than product.</ul>
