@@ -114,7 +114,7 @@ Do we *ever* talk about research that *doesn’t* confirm an hypothesis? Do we *
 Note:
 another fail the carleton prizes. Incentives!, we thought, the good neoliberal dh-tools that we are. We offered real money – up to a $1000 in prizes. We promoted the hang out of it. We made films, we wrote tutorials, we contacted professors across the anglosphere.
 
-—--
+---
 
 ![image](https://c1.staticflickr.com/1/54/140044286_5c4552af8e_z.jpg)
 <small> Tumbleweed, by jezarnold https://www.flickr.com/photos/jezarnold/140044286/ </small>
@@ -166,7 +166,7 @@ Lincoln addresses how to get your materials online in a format that others can t
 Note:
 We turn our teaching inside out. We do it in public. I’m not talking about MOOCs, though I suppose they have a role here, as educational tourism. No, I mean, we literally put all of our teaching out there and invite the public to take part alongside our formal students
 
-—--
+---
 
 teach inside out. 
 
@@ -177,7 +177,8 @@ fail fearlessly
 Note:
 we share with our students (and public) what has worked for us, and what hasn’t. we publish studies where the hypothesis didn’t work out. we replicate (with our students, and our public) someone else’s study.
 
-—--
+---
+
 This can be dangerous. 
 
 The advice of a white male should often be ignored.
@@ -187,7 +188,7 @@ Push your own particular context.
 Note:
 this will be dangerous. you’re a white male? put that to use. get out there and take risks, and make it safe for others to do so too.
 
-—--
+---
 
 <section data-background="https://c2.staticflickr.com/2/1707/23984493743_b8310f5be4_c.jpg">
 
@@ -197,14 +198,14 @@ this will be dangerous. you’re a white male? put that to use. get out there an
 Note:
 And it will require special tools. I’m building one right now with Neha Gupta, Michael Carter, and Beth Compton.
 
-—--
+---
 
 # ODATE
 
 ### The Open Digital Archaeology Textbook Environment
 
   Built on top of DHbox.org
-![](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvardpics/Screen%20Shot%202017-02-02%20at%2012.21.41%20PM.png)
+![](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvard/Screen%20Shot%202017-02-02%20at%2012.21.41%20PM.png)
 
   funded by ecampusontario: thanks!
 
@@ -222,7 +223,8 @@ We've taken care of fails of type 1 and type 2. Which means that your teaching c
 Note:
 you can't break it. You don't have to do tech support to get students using it. It's got Glorious Failure baked in from the start.
 
---
+---
+
 <section data-background="https://github.com/shawngraham/presentations/blob/gh-pages/lumberjacks.png?raw=true">
 <h3>FAILING GLORIOUSLY</h3>
 
