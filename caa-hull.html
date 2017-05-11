@@ -1,221 +1,89 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Failing Gloriously and Teaching Digital Archaeology, S. Graham</title>
-<meta charset='utf-8' />
-<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
-<style type='text/css'>
-body {
-  font-family: 'Helvetica';
-  background:#000;
-  background-size:100%;
-  color:#fff;
-  margin:0;
-  padding:0;
-  font-weight:bold;
-}
+<!doctype html>
+<html lang="en">
 
-h1, h2, h3, p {
-  margin:0;
-}
+	<head>
+		<meta charset="utf-8">
 
-em, a {
-  font-style:normal;
-  color:#8dbd0c;
-}
+    <title>Failing Gloriously and Teaching Digital Archaeology</title>
+		<meta name="description" content="Made with Reveal.JS, A framework for easily creating beautiful presentations using HTML, by Hakim El Hattab">
+		<meta name="author" content="Shawn Graham">
 
-a {
-  background: #34d0e7;
-  color:#000;
-  text-decoration:none;
-}
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
-img {
-  width:100%;
-}
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-div {
-  cursor:pointer;
-  cursor:hand;
-  position:absolute;
-  top:0;
-  left:0;
-}
+		<link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/theme/night.css" id="theme">
 
-</style>
-<script type='text/javascript'>
-window.onload = function() {
-    var s = document.getElementsByTagName('div'), cur = 0, ti;
-    if (!s) return;
-    function go(n) {
-        cur = n;
-        var i = 1e3, e = s[n], t;
-        document.body.className = e.dataset.bodyclass || '';
-        for (var k = 0; k < s.length; k++) s[k].style.display = 'none';
-        e.style.display = 'inline';
-        e.style.fontSize = i + 'px';
-        if (e.firstChild && e.firstChild.nodeName === 'IMG') {
-            document.body.style.backgroundImage = 'url(' + e.firstChild.src + ')';
-            e.firstChild.style.display = 'none';
-            if ('classList' in e) e.classList.add('imageText');
-        } else {
-            document.body.style.backgroundImage = '';
-            document.body.style.backgroundColor = e.style.backgroundColor;
-        }
-        if (ti !== undefined) window.clearInterval(ti);
-        t = parseInt(e.dataset.timeToNext || 0, 10);
-        if (t > 0) ti = window.setTimeout(fwd, (t * 1000));
-        while (
-            e.offsetWidth > window.innerWidth ||
-            e.offsetHeight > window.innerHeight) {
-            e.style.fontSize = (i -= 2) + 'px';
-            if (i < 0) break;
-        }
-        e.style.marginTop = ((window.innerHeight - e.offsetHeight) / 2) + 'px';
-        if (window.location.hash !== n) window.location.hash = n;
-        document.title = e.textContent || e.innerText;
-    }
-    document.onclick = function() { go(++cur % (s.length)); };
-    function fwd() { go(Math.min(s.length - 1, ++cur)); }
-    function rev() { go(Math.max(0, --cur)); }
-    document.onkeydown = function(e) {
-        if (e.which === 39 || e.which === 34 || e.which === 40) fwd();
-        if (e.which === 37 || e.which === 33 || e.which === 38) rev();
-    };
-    document.ontouchstart = function(e) {
-        var x0 = e.changedTouches[0].pageX;
-        document.ontouchend = function(e) {
-            var x1 = e.changedTouches[0].pageX;
-            if (x1 - x0 < 0) fwd();
-            if (x1 - x0 > 0) rev();
-        };
-    };
-    function parse_hash() {
-        return Math.max(Math.min(
-            s.length - 1,
-            parseInt(window.location.hash.substring(1), 10)), 0);
-    }
-    if (window.location.hash) cur = parse_hash() || cur;
-    window.onhashchange = function() {
-        var c = parse_hash();
-        if (c !== cur) go(c);
-    };
-    go(cur);
-};
-</script></head><body>
-<div><h2 id="-rehashing-archaeology">#rehashing archaeology</h2>
-</div>
-<div><p>To rehash:</p>
-<p>v.    To bring forth again in another form without significant alteration: <em>rehashing old ideas.</em></p>
-<p>v.    To discuss again.</p>
-</div>
-<div><p>Bit of a negative connotation there.</p>
-</div>
-<div><p><img src="https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvard/Screen%20Shot%202017-02-02%20at%2010.44.00%20AM.png" alt=""></p>
-</div>
-<div><p><img src="https://github.com/shawngraham/presentations/raw/gh-pages/harvard/Screen%20Shot%202017-02-02%20at%2010.51.35%20AM.png" alt=""></p>
-</div>
-<div><p><img src="https://github.com/shawngraham/presentations/raw/gh-pages/harvard/Screen%20Shot%202017-02-02%20at%2010.51.26%20AM.png" alt=""></p>
-</div>
-<div><p><img src="https://github.com/shawngraham/presentations/raw/gh-pages/harvard/Screen%20Shot%202017-02-02%20at%2010.50.51%20AM.png" alt=""></p>
-</div>
-<div><p>Digital archaeology is <em>nothing</em> unless it is rehashed.</p>
-</div>
-<div><h2 id="citations">Citations</h2>
-</div>
-<div><p><img src="https://github.com/shawngraham/presentations/raw/gh-pages/harvard/blades.jpg" alt=""></p><p> Required Figures of Academia</p>
-</div>
-<div><p><img src="https://github.com/shawngraham/presentations/raw/gh-pages/harvard/Screen%20Shot%202017-02-02%20at%2011.02.58%20AM.png" alt=""></p><p>
-go play at <a href="http://graeworks.net/digitalarchae/">http://graeworks.net/digitalarchae/</a></p>
-</div>
-<div><p>Nobody is rehashing archaeology.</p>
-</div>
-<div><p><img src="https://c2.staticflickr.com/4/3688/11294950104_caf3309879.jpg" alt=""></p><p>
-British Library, <a href="https://www.flickr.com/photos/britishlibrary/11294950104">https://www.flickr.com/photos/britishlibrary/11294950104</a> </p>
-</div>
-<div><p><img src="https://c2.staticflickr.com/4/3783/11247464116_0bae3b4f01.jpg" alt=""></p><p>
-British Library, <a href="https://www.flickr.com/photos/britishlibrary/11247464116/">https://www.flickr.com/photos/britishlibrary/11247464116/</a> </p>
-</div>
-<div><p>#hash
-<img src="https://c1.staticflickr.com/9/8257/29167532755_ab7dec75b3_z.jpg" alt="">
-theimpulsivebuy, tps://www.flickr.com/photos/theimpulsivebuy/ </p>
-</div>
-<div><p><img src="https://github.com/shawngraham/presentations/raw/gh-pages/harvard/Screen%20Shot%202017-02-02%20at%2011.20.03%20AM.png" alt="">
-<img src="https://github.com/shawngraham/presentations/raw/gh-pages/harvard/Screen%20Shot%202017-02-02%20at%2011.23.53%20AM.png" alt=""></p>
-</div>
-<div><p><img src="https://c1.staticflickr.com/9/8710/28607829416_baec8b76eb_z.jpg" alt="">
-side-eye, by lacygentlywaftingcurtains <a href="https://www.flickr.com/photos/lacygentlywaftingcurtains/28607829416/">https://www.flickr.com/photos/lacygentlywaftingcurtains/28607829416/</a> </p>
-</div>
-<div><p><img src="https://github.com/shawngraham/presentations/raw/gh-pages/harvard/Screen%20Shot%202017-02-02%20at%2011.46.11%20AM.png" alt=""></p>
-</div>
-<div><p>Digital Archaeology is Public Archaeology</p>
-</div>
-<div><h1 id="ok-so-how-">Ok, so how?</h1>
-</div>
-<div><p><img src="http://www.dayofarchaeology.com/wp-content/uploads/2016/07/oc-cu-prize1.jpg" alt=""></p>
-</div>
-<div><p><img src="https://c1.staticflickr.com/1/54/140044286_5c4552af8e_z.jpg" alt="">
- Tumbleweed, by jezarnold <a href="https://www.flickr.com/photos/jezarnold/140044286/">https://www.flickr.com/photos/jezarnold/140044286/</a> </p>
-</div>
-<div><h2 id="why-">why?</h2>
-</div>
-<div><p><img src="https://c1.staticflickr.com/5/4092/5058608718_dc6ef328ae_z.jpg" alt="">
- Aaron&#39;s puzzle, by goldberg <a href="https://www.flickr.com/photos/goldberg/5058608718">https://www.flickr.com/photos/goldberg/5058608718</a> </p>
-</div>
-<div><p><img src="https://c1.staticflickr.com/9/8358/8290496395_b679bb09f0_z.jpg"> Which came first?, by W_Minshull <a href="https://www.flickr.com/photos/23950335@N07/8290496395">https://www.flickr.com/photos/23950335@N07/8290496395</a></p>
-</div>
-<div><p><img src="https://github.com/shawngraham/presentations/raw/gh-pages/harvard/datasetropensci.png" alt=""></p>
-</div>
-<div><p><img src="https://github.com/shawngraham/presentations/raw/gh-pages/harvard/worksheets.png" alt=""></p>
-</div>
-<div><p><img src="https://github.com/shawngraham/presentations/raw/gh-pages/harvard/demonotebook.png" alt=""></p>
-</div>
-<div><h2 id="smg-teaching-fails">SMG Teaching Fails</h2>
-<ul>
-<li>not addressing anxiety</li>
-<li>not addressing fear of fail</li>
-</ul>
-</div>
-<div><p><img src="https://github.com/shawngraham/presentations/raw/gh-pages/harvard/Screen%20Shot%202017-02-02%20at%2012.06.26%20PM.png" alt=""></p>
-</div>
-<div><p><img src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif" alt=""></p>
-</div>
-<div><h2 id="ok-so-what-do-we-do-">ok, so what do we do?</h2>
-</div>
-<div><p>teach inside out. </p>
-<p>teach your <em>actual</em> research</p>
-<p>fail fearlessly</p>
-</div>
-<div><p>This can be dangerous. </p>
-<p>The advice of a white male should often be ignored.</p>
-<p>Push your own particular context.</p>
-</div>
-<div><p><img src="https://c2.staticflickr.com/2/1707/23984493743_b8310f5be4_c.jpg" alt="">
- Steampunk, by  Robert Björkén <a href="https://www.flickr.com/photos/robertbjork/23984493743/">https://www.flickr.com/photos/robertbjork/23984493743/</a> </p>
-</div>
-<div><h1 id="odate">ODATE</h1>
-<p>open digital archaeological textbook environment</p>
-</div>
-<div><p>S. Graham, N. Gupta, M. Carter, B. Compton</p>
-<p>funded by ecampus ontario</p>
-</div>
-<div><p>At its core, we are going to use</p>
-<p><img src="https://github.com/shawngraham/presentations/raw/gh-pages/harvard/Screen%20Shot%202017-02-02%20at%2012.21.41%20PM.png" alt=""></p>
-</div>
-<div><h2 id="we-need">we need</h2>
-<ul>
-<li>case studies</li>
-<li>data sets</li>
-<li>rehashed digital archaeology</li>
-</ul>
-<p>Help?</p>
-</div>
-<div><p><img src="https://c2.staticflickr.com/4/3791/11301200356_74f1c06e4c_z.jpg" alt="">British Library, https://www.flickr.com/photos/britishlibrary/11301200356/ </p>
-</div>
-<div><p><img src="https://c2.staticflickr.com/8/7028/6800262565_ab3227f070_z.jpg" alt="">
- Refried Beans, by artizone <a href="https://www.flickr.com/photos/artizone/6800262565">https://www.flickr.com/photos/artizone/6800262565</a> </p>
-</div>
-<div><p><h3>Thank you.</h3></p><p><small>I'm sorry I'm not there with you.</p>
-<p>Shawn Graham, Carleton U, @electricarchaeo</small></p>
-</div>
-</body>
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+		<script>
+			if( window.location.search.match( /print-pdf/gi ) ) {
+				var link = document.createElement( 'link' );
+				link.rel = 'stylesheet';
+				link.type = 'text/css';
+				link.href = 'css/print/pdf.css';
+				document.getElementsByTagName( 'head' )[0].appendChild( link );
+			}
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+<section data-markdown="caa-hull.md"
+         data-separator="---"
+         data-vertical="--"
+         data-notes="^Note:"
+         data-charset="utf-8">
+</section>
+
+			</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'fade', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Parallax scrolling
+				// parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
+				// parallaxBackgroundSize: '2100px 900px',
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
