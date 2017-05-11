@@ -3,7 +3,7 @@
 </section>
 ---
 
-![mib](https://github.com/shawngraham/presentations/blob/gh-pages/finishedwithexams?raw=true)
+![mib](https://github.com/shawngraham/presentations/blob/gh-pages/finishedwithexams.jpg?raw=true)
 
 Note:
 I am dissatisfied with the standard model of assessing university work. how we've trained students to expect
@@ -26,9 +26,7 @@ This is especially the case when we teach digital archaeology: not, computation 
 
 Note:
 We all have stories where we learned from something that went horribly wrong. or from projects we did that we had to get special permission to do. things that didn't quite fit the syllabus as received. serendipity.
-
 maybe we can design for that? This is what I call 'Failing Gloriously'
-
 if we design for glorious failure from the outset, I think we will have more effective teaching of digital archaeology, which will lead to a) better archaeology b) better public understanding of our work c) students better equipped to live in this world. There are no such thing as 'digital natives', o odious phrase!
 
 ---
@@ -97,9 +95,10 @@ academic culture does not reward 'fail'. it's zero-sum.
 ---
 
 <section data-background="failpics/streamgraph-topics-20000.png">
-<br><br><br><h2 style="color:black">Fail in the archaeological literature?</hr>
+<br><br><br><h2 style="color:black"><br><br>Fail in the archaeological literature?</h2>
 
-Note: Do we *ever* talk about research that *doesn’t* confirm an hypothesis? Do we *ever* try to replicate someone else’s study?
+Note: 
+Do we *ever* talk about research that *doesn’t* confirm an hypothesis? Do we *ever* try to replicate someone else’s study?
 - 20 000 articles topic model
 - No topic that explicitly deals with something *not* working
 - This, despite the processual turn, where you might’ve expected such a beast!
@@ -204,12 +203,12 @@ And it will require special tools. I’m building one right now with Neha Gupta,
 
 ### The Open Digital Archaeology Textbook Environment
 
-Built on top of DHbox.org
+  Built on top of DHbox.org
 ![](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvardpics/Screen%20Shot%202017-02-02%20at%2012.21.41%20PM.png)
 
-funded by ecampusontario: thanks!
+  funded by ecampusontario: thanks!
 
-—--
++ see it in action at [http://j.mp/odate-in-action](http://j.mp/odate-in-action)
 
 Note:
 By building this, we're trying to shift the infrastructure cost of learning to do digital archaeology from the student, from the individual, to ourselves. Build once, deploy everywhere as they used to say. To do digital archaeology should require only a browser. mitigate sunk costs
