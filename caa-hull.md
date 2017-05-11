@@ -1,9 +1,9 @@
-"If I wanted digital stuff, I wouldn't be studying history/archaeology/humanities"
-
-"You want me to *fail*?!"
-
+<section data-background="https://github.com/shawngraham/presentations/blob/gh-pages/3st.jpg?raw=true">
+<h2>Failing Gloriously & Teaching Digital Archaeology</h2>
+</section>
 ---
-
+<section data-background="https://github.com/shawngraham/presentations/blob/gh-pages/finishedwithexams.jpg?raw=true">
+</section>
 Note:
 I am dissatisfied with the standard model of assessing university work. how we've trained students to expect
 
@@ -14,11 +14,17 @@ Rinse. Repeat.
 
 This system is not one that encourages risk-taking. it does not encourage swinging for the bleachers. It does not encourage serendipity, or growth, or the ability to learn. It does encourage careful conformity to expectations.
 ---
+<section data-background="https://github.com/shawngraham/presentations/blob/gh-pages/deepdreampompeii.png?raw=true">
+</section>
 
+Note:
 This is especially the case when we teach digital archaeology: not, computation in the service of archaeological goals, but: computation as a deformation, as a creative pursuit, as a way of seeing the past differently. as a pivot away from existing systems of hierarchy and power: of making code and data available, for remixing & re-examination. Of open science. Open data. Open access.
 
 ---
+<section data-background="https://github.com/shawngraham/presentations/blob/gh-pages/stairbikes.png?raw=true">
+</section>
 
+Note:
 We all have stories where we learned from something that went horribly wrong. or from projects we did that we had to get special permission to do. things that didn't quite fit the syllabus as received. serendipity.
 
 maybe we can design for that? This is what I call 'Failing Gloriously'
@@ -26,7 +32,8 @@ maybe we can design for that? This is what I call 'Failing Gloriously'
 if we design for glorious failure from the outset, I think we will have more effective teaching of digital archaeology, which will lead to a) better archaeology b) better public understanding of our work c) students better equipped to live in this world. There are no such thing as 'digital natives', o odious phrase!
 
 ---
-plan:
+
++ plan:
   - talk about why digital stuff makes students nervous
   - some teaching fails of mine
   - taxonomy of productive fail
@@ -40,10 +47,9 @@ plan:
 
 ## My own teaching fails
 
+Note:
 I hide in a history department these days, so I try to teach these things to my undergrads. First lesson I’ve learned is to never underestimate the social context of whom you’re trying to teach.
-
 Anxiety – my digital history students, if I can coax them through the door, are not in any way shape or form ‘naturally conversant’ with any of this. “If I wanted to do computers, I wouldn’t have taken history” said a student in one of my (officially non-dh) courses. “What if it breaks? What if it doesn’t work? How do I get an ‘a’?”
-
 Fear of Failure – we have not taught students how to fail productively. we have created systems where the risks of trying something different are usually catastrophic. Digital work requires the ‘screwmeneutical imperative’, as Ramsay famously put it.
 
 —
@@ -125,16 +131,17 @@ https://github.com/ropensci/historydata).
 —
 
 Lincoln’s work builds capacity in others.
-![](https://github.com/shawngraham/presentations/raw/gh-pages/harvardpics/datasetropensci.png)
+![](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvard/datasetropensci.png)
+
 —
 Lincoln’s work is shared, and it’s explicitly about teaching how to use the materials he’s pulling together [in his teaching](http://lincolnmullen.com/projects/worksheets/)
 
-![](https://github.com/shawngraham/presentations/raw/gh-pages/harvardpics/worksheets.png
+![](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvardpics/worksheets.png)
 
 —
 Lincoln addresses how to get your materials online in a format that others can then use
 
-![](https://github.com/shawngraham/presentations/raw/gh-pages/harvardpics/demonotebook.png)
+![](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvardpics/demonotebook.png)
 
 https://lmullen.github.io/rmd-notebook/
 
