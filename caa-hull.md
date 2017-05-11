@@ -225,7 +225,7 @@ you can't break it. You don't have to do tech support to get students using it. 
 
 ---
 
-<section data-background="https://github.com/shawngraham/presentations/blob/gh-pages/lumberjacks.png?raw=true">
+<section data-background="https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/lumberjacks.png">
 <h3>FAILING GLORIOUSLY</h3>
 
 <ul>Makes it safe to try things out.</ul>
@@ -234,3 +234,7 @@ you can't break it. You don't have to do tech support to get students using it. 
 <br>
 <ul>Makes knowledge.</ul>
 </section>
+
+---
+
+![](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/force.jpg)
