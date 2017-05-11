@@ -226,14 +226,15 @@ you can't break it. You don't have to do tech support to get students using it. 
 ---
 
 <section data-background="https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/lumberjacks.png">
-<font color="black">
-<h3>FAILING GLORIOUSLY</h3>
-
+<div align="left"; style="background-color: grey; opacity: 0.8">
+<h3 style="color:black">FAILING GLORIOUSLY</h3>
+<ul style="color:black">
 <ul>Makes it safe to try things out.</ul>
 <ul>Makes a framework for process, rather than product.</ul>
 <ul>Makes sharing what works and what doesn't part of the process.</ul>
 <br>
-<ul>Makes knowledge.</ul></font>
+<ul>Makes knowledge.</ul>
+</div>
 </section>
 
 ---
