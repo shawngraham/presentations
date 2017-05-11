@@ -78,7 +78,7 @@ Note:
 fail taxonomy - croxall & warnick consider the ways tech teaching in particular can fail; use this taxonomy to understand AND THEN have productive fail (types 3 and 4)
 
 ---
-# ITERATIVE FAILURE
+# ITERATIVE <br> FAILURE
 
 Note:
 imagine if more of our teaching was built around the idea of iterative failures towards understanding?
