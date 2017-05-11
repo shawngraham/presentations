@@ -149,13 +149,13 @@ Lincoln’s work builds capacity in others.
 
 ---
 
-![image](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvardpics/worksheets.png?raw=true)
+![image](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvard/worksheets.png)
 
 Lincoln’s work is shared, and it’s explicitly about teaching how to use the materials he’s pulling together [in his teaching](http://lincolnmullen.com/projects/worksheets/)
 
 ---
 
-![](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvardpics/demonotebook.png?raw=true)
+![](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvard/demonotebook.png)
 
 Lincoln addresses how to get your materials online in a format that others can then [use](https://lmullen.github.io/rmd-notebook/)
 
