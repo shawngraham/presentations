@@ -1,5 +1,7 @@
 <section data-background="https://github.com/shawngraham/presentations/blob/gh-pages/3st.jpg?raw=true">
-<br><br><br><h2>Failing Gloriously & Teaching Digital Archaeology</h2>
+<br><br><br><br><br><br><br><br><br><h2>Teaching the Glorious Fail in Digital Archaeology</h2>
+<br><br><br><br><small>Shawn Graham, Carleton U, @electricarchaeo<br><br>
+Follow along at http://bit.ly/glorious-fail</small>
 </section>
 ---
 
@@ -72,7 +74,7 @@ So how do we make fails productive?
 2 - Human Failure<br>
 3 - Failure as Artifact<br>
 4 - Failure as Epistemology<br>
-<p class="fragment fade-up">5 - Failing to Reflect</p>
+<p class="fragment fade-up">5 - Failing to Tell Anyone</p>
 
 Note:
 fail taxonomy - croxall & warnick consider the ways tech teaching in particular can fail; use this taxonomy to understand AND THEN have productive fail (types 3 and 4)
@@ -94,8 +96,10 @@ academic culture does not reward 'fail'. it's zero-sum.
 
 ---
 
-<section data-background="failpics/streamgraph-topics-20000.png">
-<br><br><br><h2 style="color:black"><br><br>Fail in the archaeological literature?</h2>
+Fail in the archaeological literature?
+
+![img](failpics/streamgraph-topics-20000.png)
+
 
 Note: 
 Do we *ever* talk about research that *doesn’t* confirm an hypothesis? Do we *ever* try to replicate someone else’s study?
@@ -145,19 +149,19 @@ https://github.com/ropensci/historydata).
 
 ![](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvard/datasetropensci.png?raw=true)
 
-Lincoln’s work builds capacity in others.
+Mullen's work builds capacity in others.
 
 ---
 
 ![image](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvard/worksheets.png)
 
-Lincoln’s work is shared, and it’s explicitly about teaching how to use the materials he’s pulling together [in his teaching](http://lincolnmullen.com/projects/worksheets/)
+Mullen's work is shared, and it’s explicitly about teaching how to use the materials he’s pulling together [in his research](http://lincolnmullen.com/projects/worksheets/)
 
 ---
 
 ![](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvard/demonotebook.png)
 
-Lincoln addresses how to get your materials online in a format that others can then [use](https://lmullen.github.io/rmd-notebook/)
+Mullen addresses how to get your materials online in a format that others can then [use](https://lmullen.github.io/rmd-notebook/)
 
 ---
 
@@ -172,7 +176,7 @@ teach inside out.
 
 teach your *actual* research
 
-fail fearlessly
+fail gloriously
 
 Note:
 we share with our students (and public) what has worked for us, and what hasn’t. we publish studies where the hypothesis didn’t work out. we replicate (with our students, and our public) someone else’s study.
@@ -181,7 +185,7 @@ we share with our students (and public) what has worked for us, and what hasn’
 
 This can be dangerous. 
 
-The advice of a white male should often be ignored.
+The advice of a white male who works on the internet should often be ignored.
 
 Push your own particular context.
 
@@ -207,9 +211,11 @@ And it will require special tools. I’m building one right now with Neha Gupta,
   Built on top of DHbox.org
 ![](https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/harvard/Screen%20Shot%202017-02-02%20at%2012.21.41%20PM.png)
 
-  funded by ecampusontario: thanks!
+---
 
-+ see it in action at [http://j.mp/odate-in-action](http://j.mp/odate-in-action)
+Funded by eCampusOntario: thanks!
+
+☞ see it in action at [http://j.mp/odate-in-action](http://j.mp/odate-in-action)
 
 Note:
 By building this, we're trying to shift the infrastructure cost of learning to do digital archaeology from the student, from the individual, to ourselves. Build once, deploy everywhere as they used to say. To do digital archaeology should require only a browser. mitigate sunk costs
@@ -226,8 +232,8 @@ you can't break it. You don't have to do tech support to get students using it. 
 ---
 
 <section data-background="https://raw.githubusercontent.com/shawngraham/presentations/gh-pages/lumberjacks.png">
-<div align="left"; style="background-color: grey; opacity: 0.5">
-<br><br><br><br><h3 style="color:black">FAILING GLORIOUSLY</h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><div align="left"; style="background-color: grey; opacity: 0.8">
+<h3 style="color:black">FAILING GLORIOUSLY</h3>
 <ul style="color:black">
 <ul>Makes it safe to try things out.</ul>
 <ul>Makes a framework for process, rather than product.</ul>
