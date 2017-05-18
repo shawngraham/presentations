@@ -183,12 +183,9 @@ Note:
 
 ---
 
-<table style="width:100%">
-  <tr>
-    <th>![nfs](uclbigdatagothic/tsne.png)</th>
-    <th>![bonetrade](uclbigdatagothic/bonetradevector.jpg)</th>
-<tr>
-<table>
+![bonetrade](uclbigdatagothic/bonetradevector.jpg)<br>
+![nfs](uclbigdatagothic/tsne.png)
+
 Note:
 21
 
