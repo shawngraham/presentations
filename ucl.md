@@ -68,7 +68,7 @@ Note:
 8
 
 ---
-<section data-background="uclbigdatagothic/experiment.jpg"</section>
+![](uclbigdatagothic/xkcd.jpg)
 Note:
 9
 
