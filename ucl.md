@@ -10,8 +10,8 @@
 - treating humans as things
 - thick data visualizations
 - Big Dada
-
-<small>follow along on your own device at [http://bit.ly/graham-big-data](http://bit.ly/graham-big-data) (but be careful; some of the links open sound files)</small>
+<br>
+<small>follow along on your own device at [http://bit.ly/graham-big-data](http://bit.ly/graham-big-data) <br> (but be careful; some of the links open sound files)</small>
 
 ---
 
