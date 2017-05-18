@@ -11,6 +11,8 @@
 - thick data visualizations
 - Big Dada
 
+<small>follow along on your own device at [http://bit.ly/graham-big-data](http://bit.ly/graham-big-data) (but be careful; some of the links open sound files)</small>
+
 ---
 
 ####[The Gothic] aimed to produce emotionally vertiginous shocks and thrills;<br> sensations of any kind, in fact, so long as they put the viewing subject - the 'Self' - at the centre of the experience.
