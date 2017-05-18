@@ -12,7 +12,7 @@ Have never experienced it, I think; although once was Bish organist; had to thin
 Shawn Graham at [Carleton U](http://carleton.ca)<br>
 [@electricarchaeo](http://twitter.com/electricarchaeo)
 <br><br>
-<small> Follow along at j.mp/sg-synesthesia</small>
+<small> Follow along at bit.ly/sg-synesthesia</small>
 
 Note:
 But working with digital stuff, ephemeral stuff, electromagnetic pulses, I've been wondering if I can induce a kind of synesthesia, expand what's possible to do, to think with, to experience and understand. Probably would be easier if I just did drugs.
