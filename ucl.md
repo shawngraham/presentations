@@ -1,44 +1,113 @@
 # Big Data Gothic
 
-![by Sophie Hay](sophie-hay.jpg)
+![by Sophie Hay](uclbigdatagothic/sophie-hay.jpg)
 
+
+---
+
+## The Plan
+- what makes big data gothic
+- treating humans as things
+- thick data visualizations
+- Big Dada
 
 ---
 
 ####[The Gothic] aimed to produce emotionally vertiginous shocks and thrills;<br> sensations of any kind, in fact, so long as they put the viewing subject - the 'Self' - at the centre of the experience.
 <br>
-#### -> Richard Marggraf Turley
+
+Richard Marggraf Turley
+
+Note:
+3
 
 ---
 
 #### "The goal<br> was to <br>overwhelm <br>the senses,<br> to annihilate<br> 'Self'."
-<section data-background="wanderer.jpg">
+<section data-background="uclbigdatagothic/wanderer.jpg">
 </section>
 
+Note:
+4
 
 ---
 <div align="left">
 #### The world of information is more Gothic <br>than its believers believe, <br>because it is ghostly, <br>silhouette-like, <br>deprived of human sentience
 <br>
-#### -> Arnold Weinstein
+#### Arnold Weinstein
 </div>
-<section data-background="saturn-eating-child.jpg"></section>
+<section data-background="uclbigdatagothic/saturn-eating-child.jpg"></section>
+
+Note:
+5
+
 ---
+
+
+![national gallery from gizmodo story](uclbigdatagothic/ng_passing.jpg)
+
+Note:
+6. http://www.gizmodo.co.uk/2017/04/exclusive-heres-what-museums-learn-by-tracking-your-phone/
+
+---
+<div align="right">
+<h3 style="color:black"> I always feel like somebody's watching me</h3>
+</div>
+<section data-background="uclbigdatagothic/mirror.jpg"></section>
+Note: 
+7
+
+---
+<div align="left" style="background-color: grey; opacity: 0.8">
+### Pepperoni & Surveillance to go, please
+</div>
+<section data-background="uclbigdatagothic/brokenmenuscreen.png"></section>
+Note:
+8
+
+---
+<section data-background="uclbigdatagothic/experiment.jpg"</section>
+Note:
+9
+
+---
+### the technomadness of the bots
+<table style="width:100%">
+  <tr>
+    <th>![](uclbigdatagothic/wikistream.png)</th>
+    <th>![](uclbigdatagothic/botchat.png)</th>
+  <tr>
+</table>
+
+Note: 10
+
+---
+
 <div align="left">
 ### Techno-utopianism & the obliteration of self
 </div>
-<section data-background="arcadia.jpg"></section>
+<section data-background="uclbigdatagothic/arcadia.jpg"></section>
 Note:
-the idea that more metrics results in better outcomes for the privileged few who live outside the algorithm, the people who own uber rather than drive for uber, or the sessional adjuncts at a former university I taught at who were scored across something called 'the Matrix' which was used to figure out who got to keep their job. Zoe Quinn: If you're not asking yourself "how could this be used to hurt someone" in your design/engineering process, you've failed. And it's not you paying for your failure. It's people who already have enough shit to deal with.
+11 the idea that more metrics results in better outcomes for the privileged few who live outside the algorithm, the people who own uber rather than drive for uber, or the sessional adjuncts at a former university I taught at who were scored across something called 'the Matrix' which was used to figure out who got to keep their job. Zoe Quinn: If you're not asking yourself "how could this be used to hurt someone" in your design/engineering process, you've failed. And it's not you paying for your failure. It's people who already have enough shit to deal with.
 
 
 ---
 
 ### The sublime ... er big data ... will save us
 But probably not you, personally.
-![img](bigdatawill.gif)
+![img](uclbigdatagothic/bigdatawill.gif)
 Note:
-Kurzweil, obviously. painting: Martin Myrone encourages us to think of artistic engagement with, and deployment of, the sublime as primarily market driven, thus categorising it as a somewhat knowing and cynical enterprise. ‘The reality of commercial spectacle and sensation,’ he states, "was accommodated to a revised notion of ideal art through the eighteenth century notion of the sublime, the aesthetic celebration of grandeur and horror for its stimulation effects ... By the late eighteenth century the term had become commonplace with improvised, informal and often half-baked writing that then passed as art criticism, where it typically functioned as a ‘buzzword’ that had a certain currency without being fully theorized." He concludes that the sublime can ‘probably best be described as a certain kind of effect which had more to do with manipulating public and critical response than with attending to some pre-ordained theoretical prescription.’ http://www.tate.org.uk/art/research-publications/the-sublime/christine-riding-shipwreck-self-preservation-and-the-sublime-r1133015
+12 Kurzweil, obviously. painting: Martin Myrone encourages us to think of artistic engagement with, and deployment of, the sublime as primarily market driven, thus categorising it as a somewhat knowing and cynical enterprise. ‘The reality of commercial spectacle and sensation,’ he states, "was accommodated to a revised notion of ideal art through the eighteenth century notion of the sublime, the aesthetic celebration of grandeur and horror for its stimulation effects ... By the late eighteenth century the term had become commonplace with improvised, informal and often half-baked writing that then passed as art criticism, where it typically functioned as a ‘buzzword’ that had a certain currency without being fully theorized." He concludes that the sublime can ‘probably best be described as a certain kind of effect which had more to do with manipulating public and critical response than with attending to some pre-ordained theoretical prescription.’ http://www.tate.org.uk/art/research-publications/the-sublime/christine-riding-shipwreck-self-preservation-and-the-sublime-r1133015
+
+---
+
+<div align="right" style="background-color: grey; opacity: 0.8">
+<h3 style="color:black"> Information Asymmetry </h3>
+</div>
+<section data-background="uclbigdatagothic/secrets.jpg"></section>
+Note:
+13
+Power Asymmetry
 
 ---
 
@@ -47,8 +116,11 @@ Kurzweil, obviously. painting: Martin Myrone encourages us to think of artistic 
 + revels in the glory of the [data] landscape
 + exults in the terror of it all
 
+Note:
+14
+
 ---
-<section data-background="granny_weatherwax_by_daoyiliu-d8h0z0i.jpg">
+<section data-background="uclbigdatagothic/granny_weatherwax_by_daoyiliu-d8h0z0i.jpg">
 <div align="left">
 <br><br>"It's a lot more complicated than that--"<br><br>
 
@@ -63,6 +135,9 @@ that's where it starts."<br><br>
 
 Terry Pratchett, _Carpe Jugulum_
 </div></section>
+
+Note:
+15
 ---
 
 Big data, like the Gothic, lacks context.
@@ -70,20 +145,21 @@ Big data, like the Gothic, lacks context.
 Context forces us to _not_ think of humans as things
 
 Note:
-Like the sublime, we get caught up in the seductive mass of the numbers.
+16. Like the sublime, we get caught up in the seductive mass of the numbers.
 ---
 
-<section data-background="https://dl.dropboxusercontent.com/u/37716296/troy_pba_pottery_tent.jpg">
+<section data-background="uclbigdatagothic/troy_pba_pottery_tent.jpg">
 <div align="left">
-Archaeology, Ethnography, History.... <Br>the humanities are about context.</div>
+Let us make big data our _own_ kind of big data.<br> Data that remembers its humanity.</div>
 </section>
+Note: 17
 
 ---
 <br><br><br><br>
 ## When we think of humans as things
-<section data-background="http://cdn.arstechnica.net/wp-content/uploads/sites/3/2016/02/drone-on-tarmac-640x413.jpg"></section>
+<section data-background="uclbigdatagothic/drone-on-tarmac-640x413.jpg"></section>
 Note:
-Skynet + lives as rounding errors
+18 Skynet + lives as rounding errors
 https://theintercept.com/document/2015/05/08/skynet-courier/
 http://arstechnica.co.uk/security/2016/02/the-nsas-skynet-program-may-be-killing-thousands-of-innocent-people/
 
@@ -93,12 +169,52 @@ http://arstechnica.co.uk/security/2016/02/the-nsas-skynet-program-may-be-killing
 #### Buying and Selling Human Remains on Instagram
 (project lead: Damien Huffer)
 
-![img](bonetradesampler.png)
+![img](uclbigdatagothic/bonetradesampler.png)
 Note:
-Big data from culling the posts gives me some insight, esp when I represent as vector models, some of the explicit language behind this trade, and ways that people signal that something is for sale. But it also misses the visual signals in the composition of the images itself. For that, I have to go in and read these hidden cues - rather like a kind of steganography that is explicitly meant to conceal the trade from algorithmic monitoring. This kind of reaction is also present on Facebook or Twitter as people 'template' themselves for particular audiences. The danger is that these templated selves could become algorithmic prisons: our performances in reaction to alogorithms that make assumptions about how the world work cease to become performances and instead become real. This is big data gothic.
+19
+---
+
+![sentiment](uclbigdatagothic/sentiment.png)
+
+Note:
+20
 
 ---
-<section data-background="sophie-hay2.png">
+
+<table style="width:100%">
+  <tr>
+    <th>![nfs](uclbigdatagothic/tsne.png)</th>
+    <th>![bonetrade](uclbigdatagothic/bonetradevector.jpg)</th>
+<tr>
+<table>
+Note:
+21
+
+---
+
+![nfs](uclbigdatagothic/goodbadnfssale.png)
+
+Note:
+22
+
+---
+
+![arcplot](uclbigdatagothic/arcplot.png)
+
+Note:
+23
+---
+<table style="width:100%">
+  <tr>
+    <th>![likeshues](uclbigdatagothic/likeshues.jpg)</th>
+    <th>![imageplot](uclbigdatagothic/imageplotbones.jpg)</th>
+    <tr>
+<table>
+Note:
+24
+
+---
+<section data-background="uclbigdatagothic/sophie-hay2.png">
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 ### Thick Data and the Fall of the House of Nokia
 
@@ -106,7 +222,53 @@ Big data from culling the posts gives me some insight, esp when I represent as v
 
 </section>
 Note:
-Complementary; Digital Humanities & Big Data balance each other
+25 Complementary; Digital Humanities & Big Data balance each other
+
+---
+
+<div align="right">
+### Thick Archaeological Data
+</div>
+<section data-background="uclbigdatagothic/peanutbutter.jpg"></section>
+Note:
+26
+
+---
+
+![bevan](uclbigdatagothic/bevan.png)
+
+Note:
+27
+---
+
+![heatmap](uclbigdatagothic/excelheatmap.png)
+
+Note:
+28
+
+---
+
+![articles](uclbigdatagothic/20000.png)
+
+Note:
+29
+
+---
+
+<div align="right">
+<h3>To my GIS instructor: I am so very sorry</h3>
+</div>
+
+![horrible](uclbigdatagothic/horriblemap.png)
+Note:
+30
+
+---
+
+![contexts](uclbigdatagothic/contexts.png)
+
+Note:
+31
 
 ---
 
@@ -115,15 +277,53 @@ Complementary; Digital Humanities & Big Data balance each other
 <br>
 The word behind the elipses is 'business'. Insert your own field.
 
+Note:
+32
+
+---
+
+<div align="right">
+### Big Dada
+</div>
+<section data-background="uclbigdatagothic/MechanicalHead-Hausmann.jpg"></section>
+Note: 
+33
+
+---
+
+Listening to Watling Street
+
+[![Watling](uclbigdatagothic/watling.png)](https://www.youtube.com/embed/vv0oswpr18o)
+
+---
+
+3d Print Sonified Images 
+<br> sight... to sound... to touch
+
+[BoneSong](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/252444364)
+
+![haptic](uclbigdatagothic/haptic.png)
+
+---
+
+<div align="right">
+<h3 style="color:black"> <br><br>so I thought to myself,<br> I'll make a zine,<br> a journal, <br> for this</h3>
+</div>
+<section data-background="uclbigdatagothic/epoiesen.png"></section>
+Note: 
+35
+
 ---
 
 ### When you find yourself making excuses by blaming the algorithm:
 # that's Big Data Gothic
 
-<br><br>Hire a digital humanist.
+<br><br>When you find yourself liberated by digital tools to see the data in new ways,
+## that's Big Dada
 
---
+---
 
-[Links to image sources](dd2016links.md)
+Thank you.
 
-I'm [Shawn Graham at Carleton U](http://twitter.com/@electricarchaeo)
+I'm [Shawn Graham at Carleton U](http://carleton.ca)
+and [@electricarchaeo](http://twitter.com/@electricarchaeo) on Twitter
