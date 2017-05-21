@@ -326,3 +326,5 @@ Thank you.
 
 I'm [Shawn Graham at Carleton U](http://carleton.ca)
 and [@electricarchaeo](http://twitter.com/@electricarchaeo) on Twitter
+<br>
+<small>I was still fiddling with this presentation last night. I'll post the image credits page when I get back to Canada. Title image courtesy Dr. Sophie Hay</small>
