@@ -7,7 +7,7 @@ Have never experienced it, I think; although once was Bish organist; had to thin
 ---
 
 ## A digital synesthesia: 
-### using and abusing sonification for hearing patterns in archaeological data
+### experiments in using and abusing sonification for hearing patterns in archaeological data
 
 Shawn Graham at [Carleton U](http://carleton.ca)<br>
 [@electricarchaeo](http://twitter.com/electricarchaeo)
@@ -16,6 +16,15 @@ Shawn Graham at [Carleton U](http://carleton.ca)<br>
 
 Note:
 But working with digital stuff, ephemeral stuff, electromagnetic pulses, I've been wondering if I can induce a kind of synesthesia, expand what's possible to do, to think with, to experience and understand. Probably would be easier if I just did drugs.
+
+---
+
+### tl:dr
+
++ the terror and beauty of Big Data
++ break everything
++ digital synesthesia as big dada
++ profound\* concluding thoughts
 
 ---
 
