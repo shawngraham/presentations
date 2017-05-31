@@ -71,10 +71,10 @@ Hannah Höch, Cut with the Dada Kitchen Knife through the Last Weimar Beer-Belly
 
 ### digital synaesthesia: big dada?
 
-![](lund/Man_Ray,_Rencontre_dans_la_porte_tournante.jpg)
-
 [Handbook of Sonification, chp 8](http://sonification.de/handbook/index.php/chapters/chapter8/) versus
 [Sonic Word Clouds](https://danielruten.wordpress.com/2017/04/15/sonic-word-cloud-project-part-4-conclusions/)
+
+![](lund/Man_Ray,_Rencontre_dans_la_porte_tournante.jpg)
 
 Note:
 - nb shawn play this in safari rather than chrome
