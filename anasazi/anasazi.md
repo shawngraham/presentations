@@ -63,14 +63,6 @@ The point of the game: to understand the same by exploration, discovery, and att
 
 ---
 
-<section data-background="anasazi/proceduralterrain1.png"></section>
-
----
-
-<section data-background="anasazi/proceduralterrain2.png"></section>
-
----
-
 Interacting with NPCs to change the trajectory of the simulation
 
 <table border="0" bordercolor="#000000" style="background-color:#000000" width="100%" cellpadding="3" cellspacing="3">
@@ -79,6 +71,14 @@ Interacting with NPCs to change the trajectory of the simulation
         <td>![interaction1](anasazi/interaction1.png)</td>
     </tr>
 </table>
+
+---
+
+<section data-background="anasazi/proceduralterrain1.png"></section>
+
+---
+
+<section data-background="anasazi/proceduralterrain2.png"></section>
 
 ---
 
