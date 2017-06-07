@@ -1,7 +1,7 @@
 # Anasazi
 
 <section data-background="anasazi/15763640429_869366af3a_b.jpg"></section>
-
+<br></br><br>
 a playable agent-based simulation exploring
 climate change & cultural collapse
 in the remote past
@@ -17,11 +17,15 @@ Note: Who are the anasazi
 
 ![Agent Based Model](anasazi/aa_interface.png)
 
+The black box of agent based models
+
 Note: abm: how it works, how archaeologists use them. problem of abm: noone engages with them; too black-box
 
 ---
 
 ![games that play themselves](anasazi/simmap.png)
+
+Games that play themselves? Insert humans!
 
 Note: abm games that play themselves, thus our response: insert the human into the game!
 
@@ -45,6 +49,8 @@ Note: concept then is to run the simulation inside unity, but use player engagem
 
 ![opening](anasazi/openingstory3.png)
 
+Game story & framing subtley conveys design & research issues of the ABM to the player
+
 Note: thus the story of the game is used to subtley convey the design issues of the ABM to the player
 
 ---
@@ -55,11 +61,11 @@ Note: the act of translation of abm into unity, + thinking of how the player eng
 
 ---
 
-<section data-background="anasazi/32192770544_56150af698_b.jpg"></section>
++ The point of the ABM: to understand the factors behind the cultural collapse.
 
-The point of the ABM: to understand the factors behind the cultural collapse.
++ The point of the game: to understand the same by exploration, discovery, and attempting to _stave off_ the collapse. 
 
-The point of the game: to understand the same by exploration, discovery, and attempting to _stave off_ the collapse.
+![](anasazi/32192770544_56150af698_b.jpg)
 
 ---
 
