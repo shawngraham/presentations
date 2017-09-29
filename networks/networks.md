@@ -117,10 +117,24 @@ Note:
 
 ### go get started
 
-[https://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources](https://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
+- [https://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources](https://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
+
+- [a dataset](https://programminghistorian.org/lessons/exploring-and-analyzing-network-data-with-python)
+
+![](networks/ontario_ch_christ22.jpg)
 
 ---
 
+### digital history @ Carleton
+
+- [HIST3814 Crafting Digital History](http://craftingdigitalhistory.ca)
+- HIST3812 Digital History: Archaeogaming (I think; I haven't decided yet)
+- MA in Digital Humanities & History; MA in Data Science & History
+
+![](https://carleton.ca/history/wp-content/uploads/3812-pic.jpg)
+
+
+---
 # Thanks!
 
 ![](lund/force.jpg)
