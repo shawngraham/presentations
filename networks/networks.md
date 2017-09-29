@@ -22,6 +22,8 @@ Note:
   + articulating the relationship(s) is key
 + profound\* concluding thoughts
 
+<small> _Follow along at [http://j.mp/smg-nets-sept29](j.mp/smg-nets-sept29) </small>
+
 ---
 
 ### structures versus agency
