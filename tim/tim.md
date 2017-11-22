@@ -338,7 +338,7 @@ Let's get our hands dirty.
 - How might you use this tool in your own research?
 
 ---
-## More Things To read
+## More Things To Read
 
 [Blei et al](http://jmlr.csail.mit.edu/papers/volume3/blei03a/blei03a.pdf)
 
