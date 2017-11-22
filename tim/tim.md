@@ -6,6 +6,7 @@
 
 #### Shawn Graham, History
 ####shawngraham.github.io
+http://j.mp/TIM-11-22
 
 
 ---
@@ -17,7 +18,7 @@
 </div>
 </section>
 Note:
-the problem with magic - sam vimes
+the problem with magic - sam vimes. many folks in humanities feel similarly about digital methods. it is a black box: and because it appears magical, un-interrogateable, it can be the bogeyman, the focus of all our worst fears.
 
 ---
 
@@ -38,17 +39,20 @@ the problem with magic - sam vimes
 **So little time.**
 </section>
 Note:
-why historians interested in large scale approaches to text - roy rosenzweig
+why historians interested in large scale approaches to text - roy rosenzweig. scarcity versus abundance. but a big issue: historians pretend that they aren't using digital methods. milligan, illusory order. so they sneak a little magic in, but pretend it's not there, and that way, they can pretend that it doesn't have theoretical implications, that method is theory free, and that they certainly don't have to think about the underlying networks of power and resources that makes this research possible. or to think about keyword search works. or the errors of OCR - Cordell, Quoth the Raven; Shawville Equity
 
 ---
 <section data-background="tim/troy_pba_pottery_tent.jpg">
 </section>
 Note:
-different sized corpora that historians deal with. relativity of ‘big’
+different sized corpora that historians deal with. relativity of ‘big’. historians not the only ones who pretend like this. 'big' is a moving goalpost. Shopify 'cotton socks' story. Bigger, faster, theory-free, everything will percolate up in the associations and correlations... we've been here before
 
 ---
 
 The Spectre of Cliometrics
+
+Note:
+an approach associated with economic historians of the late 70s, early 80s. i'm not a historian, not really, but it looks to me to have been paralleled in archaeology with a certain kind of processual thinking where MOAR DATA and frequentist statistics would give us The Answer. Historians reacted against this - since many of them lacked even basic statistical training, such that there are very few economic historians in history departments these days.
 
 ---
 
@@ -59,6 +63,9 @@ The Spectre of Cliometrics
 #### Arnold Weinstein
 </div>
 <section data-background="uclbigdatagothic/saturn-eating-child.jpg"></section>
+
+Note:
+These two reactions - the rejection and wholehearted adoption of magical methods seem to me to be two sides of the same coin. I like the phrase 'big data gothic' to describe this.
 
 ---
 
@@ -74,7 +81,7 @@ Richard Marggraf Turley
 </section>
 
 Note:
-vista: terrifies us in its sublime vision
+vista: terrifies us in its sublime vision. I am spending time describing all of this to give us a bit of a framework for using all these magical methods productively. If you ever find yourself shrugging and blaming The Algorithm, that's big data gothic; if you find yourself enthusing about the results to the degree that you're able to fit any explanation around the results and make it sound plausible - that's big data gothic.
 
 
 ---
@@ -84,7 +91,7 @@ The geek in me thrills at the ability to read, and make sense of, thousands of d
 The pessimist in me worries about what off-loading meaning-making to an algorithm does to our sense of humanity.
 
 Note:
-because of borrowing, right?
+we have to understand what the method does well enough to know when what we're seeing is an artefact of how we've shaped the data, how we've put our thumb on the scales. We are taught every day to accept the outcome of the algorithm as neutral, divine even - "I'm sorry sir but the computer says..."
 
 ---
 <section data-background="tim/chris-barbalis-186421.jpg">
@@ -95,7 +102,7 @@ because of borrowing, right?
 
 
 Note:
-background of archaes re computation - idea that we’ve this dual nature, science & humanities; sci method w/ humanistic interp
+background of archaes re computation - idea that we’ve this dual nature, science & humanities; sci method w/ humanistic interp. I feel that while I am probably a C-List digital humanities guy, I've lived in the interstices of different schools of thought that what I'm saying here contains a bit of Truth that'll help other people make more informed use of these magical methods. But I would say that, wouldn't I?
 
 
 ---
@@ -112,7 +119,7 @@ Justification versus Discovery
 
 Note:
 archaeology had its moment about 20 odd years ago re computation: computation was there to *prove* something! it was all hypothesis testing, sampling strategies, models and the goal: 'mid range theory', something that would bridge the fragmentary evidence to the grand stories about the past we wanted to tell. the archaeology wars were bitter, divisive. there are still the true believers out there, but most now recognize that you do all of these things in a framework of interpretation, that the computation doesn't *prove* anything, in and of itself. instead, it helps tell better v worse stories. the DH versionn of this summed up in this lovely aphorism of trevor owens.
-and mining - problems and assumptions of data mining as used by humanists. note these are literary people; archaeos sorted this out a while ago https://academic.oup.com/dsh/article/23/4/409/1036906
+and mining - problems and assumptions of data mining as used by humanists. note these are literary people; archaeos sorted this out a while ago https://academic.oup.com/dsh/article/23/4/409/1036906. So, let's actually get to the meat and potatoes: what is topic modeling, what does it do, and why should I care?
 
 ---
 <br><b><Br><br><br><Br><br><br><br>
@@ -229,7 +236,7 @@ tools like word vectors
 ![bonetrade](tim/bonetradesampler.png)
 
 Note:
-dehumanizing numbers, trade that literally commodifies humans, taking place on a platform rife with bots...
+dehumanizing numbers, trade that literally commodifies humans, taking place on a platform rife with bots... the different kinds of analysis we tried, including word-embeddings (explain) and text-reuse.
 
 ---
 
@@ -240,7 +247,7 @@ dehumanizing numbers, trade that literally commodifies humans, taking place on a
     [17] 'tribal asmat bone dayak tribalart kapala tibetan trophy tin headhunter'
 
 Note:
-this is one cluster of very closely related topics. the close association of topics clearly connected with buying and selling, and topics related to trophy skulls and other indigenous ethnographic materials. While a post might not necessarily mention a trophy skull being bought and sold, the patterns of discourse are very similar. These materials are not being discussed with respect, but as commodities.
+this is one cluster of very closely related topics. the close association of topics clearly connected with buying and selling, and topics related to trophy skulls and other indigenous ethnographic materials. While a post might not necessarily mention a trophy skull being bought and sold, the patterns of discourse are very similar. These materials are not being discussed with respect, but as commodities. And topic modeling reveals the subtle sorts of discourses - habits of thought that we unconsciously draw on given our own particular contexts - that make buying and selling human remains possible. In this way I come full circle back to my earlier concerns about big data context.
 
 ---
 
@@ -275,6 +282,7 @@ it's useful to reflect on Granny, especially with regard to how historians use d
 
 
 Note:
+so this is how we guard about getting carried away by the magic.
 partly also b/c a gap has emerged b/t how historians are assumed to work (in archives, etc) and what they’re actually doing, ie pretending to have read the entire newspaper in context and selecting the relevant info versus actual: illusory order
 
 
@@ -301,7 +309,7 @@ _Thank You_
 
 Note:
 conclusion
-‘just because you see how it’s done, it doesn’t cease to be magical’. magic methods of dh still need to be carefully grounded, and understood in the context of the method’s own historiographical trajectory.
+magic methods of dh still need to be carefully grounded, and understood in the context of the method’s own historiographical trajectory.
 
 ---
 
