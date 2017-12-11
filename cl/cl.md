@@ -1,4 +1,4 @@
-<section data-background="tim/michal-lomza-338227.jpg">
+<section data-background="cl/michal-lomza-338227.jpg">
 <div align="right"><font color="black">
 
 ### "Leader":
@@ -6,7 +6,7 @@
 
 #### Hillary, Amanda, Leslie, Shawn
 ####shawngraham.github.io
-http://j.mp/TIM-11-22
+
 
 
 ---
@@ -19,7 +19,7 @@ http://j.mp/TIM-11-22
 + Leadership at Carleton: A Data Driven Perspective
 
 ---
-<section data-background="tim/neil-cooper-318875.jpg">
+<section data-background="cl/neil-cooper-318875.jpg">
 
 **A Website Contains _libraries_ of Information.**
 
@@ -27,7 +27,7 @@ http://j.mp/TIM-11-22
 
 
 ---
-<section data-background="tim/chris-barbalis-186421.jpg">
+<section data-background="cl/chris-barbalis-186421.jpg">
 <div align="right"><font color="black">
 >** Creativity is just connecting things...The broader one’s understanding of the human experience, the better - Steve Jobs **
 </font></div>
@@ -41,7 +41,7 @@ how TM works - informal description
 
 --
 
-![gettysburg](tim/gettysburg.png)
+![gettysburg](cl/gettysburg.png)
 Find, and count, the "war" words, and the "governance" words
 
 [then we'll go to Voyant Tools](http://voyant-tools.org/?corpus=985b82cc0fc06a1b6b43e06a21838d9f&view=Topics)
@@ -76,7 +76,7 @@ mathematics of how TM works
 
 ---
 
-![](tim/xkcd.jpg)
+![](cl/xkcd.jpg)
 
 ---
 
