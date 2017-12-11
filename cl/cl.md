@@ -5,7 +5,7 @@
 ####Data-Driven Works of Art
 
 #### Hillary, Amanda, Leslie, Shawn
-####shawngraham.github.io
+#### december 12 2017
 
 
 
@@ -15,7 +15,6 @@
 
 + A Visualization
 + How the Visualization was Built
-+ What the Visualization _Means_
 + Leadership at Carleton: A Data Driven Perspective
 
 ---
@@ -26,11 +25,11 @@
 ---
 <section data-background="cl/chris-barbalis-186421.jpg">
 <div align="right"><font color="white">
->Creativity is just 
-connecting things...
-The broader one's understanding 
-of the human experience, 
-the better 
+>Creativity is just <br>>
+connecting things...<br>>
+The broader one's understanding <br>>
+of the human experience, <br>
+the better <br>
 - Steve Jobs 
 </font></div>
 <section>
@@ -84,8 +83,6 @@ mathematics of how TM works
 ![](cl/xkcd.jpg)
 
 ---
-
-> It doesn't stop being magic just because you know how it works. - T. Pratchett
 
 _Thank You_
 
