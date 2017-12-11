@@ -21,18 +21,17 @@
 ---
 <section data-background="cl/neil-cooper-318875.jpg">
 
-**A Website Contains _libraries_ of Information.**
-
-**You Need a Computer to Read 'em All.**
-
+**Carleton.ca... so much info**
 
 ---
 <section data-background="cl/chris-barbalis-186421.jpg">
 <div align="right"><font color="white">
->** Creativity is just connecting things...
-The broader one’s understanding of 
-the human experience, the better 
-- Steve Jobs **
+>Creativity is just 
+connecting things...
+The broader one's understanding 
+of the human experience, 
+the better 
+- Steve Jobs 
 </font></div>
 <section>
 
