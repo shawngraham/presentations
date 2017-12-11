@@ -28,12 +28,20 @@
 
 ---
 <section data-background="cl/chris-barbalis-186421.jpg">
-<div align="right"><font color="black">
->** Creativity is just connecting things...The broader one’s understanding of the human experience, the better - Steve Jobs **
+<div align="right"><font color="white">
+>** Creativity is just connecting things...
+The broader one’s understanding of 
+the human experience, the better 
+- Steve Jobs **
 </font></div>
 <section>
 
 ---
+
+# And Now....
+
+---
+
 [![A Brief Video on Topic Models](https://img.youtube.com/vi/l_oX4ua35Ec/0.jpg)](https://www.youtube.com/watch?v=l_oX4ua35Ec)
 
 Note:
@@ -43,8 +51,6 @@ how TM works - informal description
 
 ![gettysburg](cl/gettysburg.png)
 Find, and count, the "war" words, and the "governance" words
-
-[then we'll go to Voyant Tools](http://voyant-tools.org/?corpus=985b82cc0fc06a1b6b43e06a21838d9f&view=Topics)
 
 
 Note:
