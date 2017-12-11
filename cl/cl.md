@@ -25,9 +25,9 @@
 ---
 <section data-background="cl/chris-barbalis-186421.jpg">
 <div align="right"><font color="white">
->Creativity is just <br>>
-connecting things...<br>>
-The broader one's understanding <br>>
+>Creativity is just <br>
+connecting things...<br>
+The broader one's understanding <br>
 of the human experience, <br>
 the better <br>
 - Steve Jobs 
@@ -91,10 +91,7 @@ _Thank You_
 
 ## Photo/Art Credits
 
-+ Paul Kidby
 + Neil Cooper, unsplash.com
-+ Projekt Troia. Photographer Gebhard Bieg; with permission.
 + Chris Barbalis, unsplash.com
-+ Teddy Kelley, unsplash.com
-+ daoyiliu
++ Michael Lozma, unsplash.com
 + xkcd
