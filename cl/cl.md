@@ -70,7 +70,7 @@ Here’s what we’ll do. For each possible topic Z, we’ll multiply the freque
 - documents have a distribution over topics
 - since we don't know the number of topics, we guess
 - the model uses that guess to estimate the probabilities
-- you can end up with a model and estimated likelihood that its a good model
+- you can end up with a model, and estimated likelihood that it's a good model
 
 [you could do worse than to look at the Wikipedia page on LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
 
