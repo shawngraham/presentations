@@ -1,7 +1,7 @@
 <section data-background="cl/michal-lomza-338227.jpg">
 <div align="right"><font color="black">
 
-### "Leader":
+### _Leader_
 ####Data-Driven Works of Art
 
 #### Hillary, Amanda, Leslie, Shawn
