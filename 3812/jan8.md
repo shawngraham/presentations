@@ -62,6 +62,14 @@ discuss!
 
 ---
 
+Go to [http://www.heritagejam.org/2017-entries](http://www.heritagejam.org/2017-entries)
+
+Which of these is _closest_ to your expectations? _Furthest_?
+
+Which one is most exciting? Where is the 'History' in it?
+
+---
+
 <section data-background="3812/james-pond-191266.jpg">
 <div align="right"><font color="white">
 >
