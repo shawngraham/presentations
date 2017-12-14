@@ -9,7 +9,7 @@
 #### shawngraham.github.io
 follow along at 
 
-http://bit.ly/3812-jan8
+http://bit.ly/3812_jan8
 
 
 
