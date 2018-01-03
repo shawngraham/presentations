@@ -231,18 +231,21 @@ hist3814, reclaim hosting, etc
 
 ---
 
-# Humane hack - Alan Liu
+### The Humane Hack - Alan Liu
 
-> The humanities thus have an explanation for the new arts of the information age, whose inheritance of a frantic sequence of artistic modernisms, postmodernisms, and post-postmodernists is otherwise only a displaced encounter with the raw process of historicity. Inversely, the arts offer the humanities serious ways of engaging – both practically and theoretically- with “cool”. Together, the humanities and arts might be able to offer a persuasive argument for the humane arts in the age of knowledge work. (Liu 2004, 381)
+> The humanities thus have an explanation for the new arts of the information age, ... Inversely, the arts offer the humanities serious ways of engaging - both practically and theoretically- with 'cool'. <br>  Together, the humanities and arts might be able to offer a persuasive argument for the humane arts in the age of knowledge work. (Liu 2004, 381)
 
 Note:
 DH suffers from being seen as 'cool' or the 'next big thing' or the 'saviour of the humanities'. Lots of people get their knickers in a twist over this. This goes back to what Alan Liu argued about the laws of 'cool' in 2004, of how 'knowledge work' was the 'cool' work, in that it couldn't really be defined. We only know cool when we see it. Hence, 'cool' is the aporia of information: 'cool is information designed to resist information'. Thus, it's also shallow. Thus the humanities counters the shallowness of 'cool'
 
 ---
 
-# From Science to Art and Back Again - Tim Ingold:
+### From Science to Art and Back Again - Tim Ingold:
 
-> Revisiting science and art: which is more ecological now? Why is art leading the way in promoting radical ecological awareness? The goals of today’s science are modelling, prediction and control. Is that why we turn to art to rediscover the humility that science has lost?
+> Revisiting science and art: which is more ecological now? Why is art leading the way in promoting radical ecological awareness? The goals of today's science are modelling, prediction and control. Is that why we turn to art to rediscover the humility that science has lost?
+
+Note:
+what is big data but the newest tool of prediction and control?
 
 ---
 
@@ -271,3 +274,11 @@ Note:
 - the human in dh embraces the flawed human. resists big data gothic, neoliberal, instrumental use of tech
 - entirely possible to do english, hist, etc w tech and for it not to be dh
 - break things hard (granny weatherwax break ‘em hard!), also lobsang, rules there to make you think before you break ‘em, in public
+
+---
+
+To 'Fail Gloriously' is to take pleasure in what you learn, and in how you learn it.
+<br><br>
+_That_ is the Human in the Digital Humanities
+<br><br>
+_thank you_
