@@ -81,7 +81,7 @@ White guy on the internet warnings.
 
 ## The Plan for Today
 
-1. technological sublime / big data Gothic
+1. technological sublime / big data gothic
 2. failing gloriously as strategy to counter this
 3. practical pedagogies of fail
 4. the humane hack: beyond fail
@@ -303,12 +303,14 @@ Note:
 - break things hard (granny weatherwax break ‘em hard!), also lobsang, rules there to make you think before you break ‘em, in public
 
 ---
-
-To 'Fail Gloriously' is to take pleasure in what you learn, and in how you learn it.
+<section data-background="drew/senjuti-kundu-349426.jpg"></section>
+<div align="right">
+To 'Fail Gloriously' <Br>is to take pleasure <br>in what you learn, <Br>and in how you learn it.
 <br><br>
-_That_ is the Human in the Digital Humanities
+_That_ is the Human <br>in the Digital Humanities
 <br><br>
 _thank you_
+</div>
 
 ---
 
