@@ -303,9 +303,9 @@ Note:
 - break things hard (granny weatherwax break ‘em hard!), also lobsang, rules there to make you think before you break ‘em, in public
 
 ---
-<section data-background="drew/senjuti-kundu-349426.jpg"></section>
+<section data-background="drew/senjuti-kundu.png"></section>
 <div align="right">
-To 'Fail Gloriously' <Br>is to take pleasure <br>in what you learn, <Br>and in how you learn it.
+To 'Fail Gloriously' <Br>is to take pleasure <br>in what you learn, <Br>and<br> in how you learn it.
 <br><br>
 _That_ is the Human <br>in the Digital Humanities
 <br><br>
