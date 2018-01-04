@@ -167,13 +167,14 @@ Note:
 
 ---
 
-<br><br><br><h2 style="color:black">Fail in the <br>archaeological literature?</hr>
+<br><br><br><h2 style="color:black">20 000 articles, and no fail</hr>
+<h4><a href="http://graeworks.net/digitalarchae/20000/"> corpus here </a>
 <section data-background="failpics/streamgraph-topics-20000.png">
 
 Note:
-Do we *ever* talk about research that *doesn’t* confirm an hypothesis? Do we *ever* try to replicate someone else’s study? - 20 000 articles topic model - No topic that explicitly deals with something *not* working - This, despite the processual turn, where you might’ve expected such a beast! Nb, btw, the long prehistory of ‘digital’ type work in anglophone archaeology: even before the digital was invented, *digital habits of thought* existed. Perhaps these were a necessary precursor to enable digital work to happen in the first place
+Do we *ever* talk about research that *doesn’t* confirm an hypothesis? Do we *ever* try to replicate someone else’s study? - 20 000 articles topic model - No topic that explicitly deals with something *not* working - This, despite the processual turn, where you might’ve expected such a beast!
 
-[click here to explore the corpus on your own](http://graeworks.net/digitalarchae/20000/)
+
 
 ---
 ![img](failpics/academic-jargon.jpg)
@@ -244,7 +245,7 @@ this is how I failed Marc in the welding class. re my current students - "If I w
 
 ---
 
-### HIST3814o
+### HIST3814o as an example
 
 - [fully online](http://craftingdigitalhistory.ca); all CC - manual and [workbook](http://workbook.craftingdigitalhistory.ca)
 - modules arranged in order of a real DH research project
@@ -275,7 +276,7 @@ DH suffers from being seen as 'cool' or the 'next big thing' or the 'saviour of 
 
 ---
 
-### From Science to Art and Back Again - Tim Ingold:
+### From Science to Art and Back Again - Tim Ingold
 
 > Revisiting science and art: which is more ecological now? Why is art leading the way in promoting radical ecological awareness? The goals of today's science are modelling, prediction and control. Is that why we turn to art to rediscover the humility that science has lost?
 
