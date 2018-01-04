@@ -7,17 +7,18 @@
 #### Shawn Graham, Carleton U
 ####shawngraham.github.io, @electricarchaeo
 
-#### follow along at j.mp/
+#### follow along at j.mp/sg-drew
 ---
 
 ### My Name Is Shawn Graham
 ## and I am a Failure
 
 Note:
-the hook- why is he a failure? what does that even mean?
+the hook- why is he a failure? what does that even mean? note training as roman archaeologist vs my actual work history. note that blogging in the early 00s was a way for me to feel less like a failure - on the internet, in those days, no one knew you were a dog... so I let it all hang out there. but I want to focus on two particular failures, and why they failed.
 ---
-
-
+<section data-background="drew/matthaeus-39968.jpg"><section>
+<div align="right">
+<br>
 ## Two Fails:
 
 + The Parable of HeritageCrowd
@@ -27,24 +28,45 @@ the hook- why is he a failure? what does that even mean?
 
 ### HeritageCrowd
 
+<table>
+  <tr>
+    <th>![](https://writinghistory.trincoll.edu/wp-content/uploads/2011/09/heritagecrowd-screenshot1-600x375.png)</th>
+    <th>![](https://writinghistory.trincoll.edu/wp-content/uploads/2011/09/heritagecrowd-stories-600x521.png)</th>
+    <th>![](https://writinghistory.trincoll.edu/wp-content/uploads/2011/09/heritagecrowd-reportpage-screenshot-600x279.png)</th>
+  </tr>
+</table>
+
+Note:
+explain what it was, and what went wrong
+
 ---
+<section data-background="3812/christopher-burns-360244.jpg">
+</section>
 
 ### The Welders
 
----
+Note:
+explain that i was to teach mad skillz. kill and drill. etc.
 
-### Where did I fail?
+---
+<section data-background="drew/veeterzy-113210.jpg">
+</section>
+<div align = "left"><br>
+
+### Failure is not the end.
+
 
 Note:
-Ask for answers. Write'em down somehow. Come back to these responses later.
+my training, as a teacher. If i can do this, untenured, contingent, and still survive then there is hope for everyone. I will discuss later how my despair at the loss of heritagecrowd taught me something profound about teaching. But I will tell you now that I'm still wrestling with what the wrestlers taught me - about empathy, about kindess, and about expectations. These two experiences are perhaps the most formative of my evolution as a scholar.
 
 ---
 
 ## DH is about Failing in Public
 
 + failing in public goes against all our training. So why bother?
-+ and how do you do that _productively_?
-+ and also, how do you do it _safely_?
++ how do you do that _productively_?
++ how do you do it _safely_?
++ and how do you _teach_ it?
 
 Note:
 White guy on the internet warnings.
@@ -60,9 +82,9 @@ White guy on the internet warnings.
 ## The Plan for Today
 
 1. technological sublime / big data Gothic
-2. failing gloriously as strategy
+2. failing gloriously as strategy to counter this
 3. practical pedagogies of fail
-4. the humane hack
+4. the humane hack: beyond fail
 
 
 Note:
@@ -77,20 +99,14 @@ Note:
 **So little time.**
 </section>
 Note:
-why historians interested in large scale approaches to text - roy rosenzweig. scarcity versus abundance. but a big issue: historians pretend that they aren't using digital methods. milligan, illusory order. so they sneak a little magic in, but pretend it's not there, and that way, they can pretend that it doesn't have theoretical implications, that method is theory free, and that they certainly don't have to think about the underlying networks of power and resources that makes this research possible. or to think about keyword search works. or the errors of OCR - Cordell, Quoth the Raven; Shawville Equity
+technological sublime - where conception of algorithms as precise and technology working at scope beyond human comprehension meet. (paige c morgan).
+
 
 ---
 <section data-background="tim/troy_pba_pottery_tent.jpg">
 </section>
 Note:
-different sized corpora that historians deal with. relativity of ‘big’. historians not the only ones who pretend like this. 'big' is a moving goalpost. Shopify 'cotton socks' story. Bigger, faster, theory-free, everything will percolate up in the associations and correlations... we've been here before. DO NOT CONFLATE DH WITH BIG DATA
-
----
-
-The Spectre of Cliometrics
-
-Note:
-an approach associated with economic historians of the late 70s, early 80s. i'm not a historian, not really, but it looks to me to have been paralleled in archaeology with a certain kind of processual thinking where MOAR DATA and frequentist statistics would give us The Answer. Historians reacted against this - since many of them lacked even basic statistical training, such that there are very few economic historians in history departments these days.
+different sized corpora that humanists deal with. relativity of ‘big’. humanists not the only ones who pretend that because something is digital it is somehow 'data' rather than 'capta'. 'big' is a moving goalpost. Bigger, faster, theory-free, everything will percolate up in the associations and correlations... we've been here before. DO NOT CONFLATE DH WITH BIG DATA
 
 ---
 
@@ -106,17 +122,7 @@ These two reactions - the rejection and wholehearted adoption of magical methods
 
 ---
 
-####[The Gothic] aimed to produce emotionally vertiginous shocks and thrills;<br> sensations of any kind, in fact, so long as they put the viewing subject - the 'Self' - at the centre of the experience.
-<br>
-
-Richard Marggraf Turley
-
-Note:
-filter bubbles extraordinaire
-
----
-
-#### "The goal<br> was to <br>overwhelm <br>the senses,<br> to annihilate<br> 'Self'."
+#### "The goal [of the gothic]<br> was to <br>overwhelm <br>the senses,<br> to annihilate<br> 'Self'." - Turley
 <section data-background="tim/wanderer.jpg">
 </section>
 
@@ -126,12 +132,10 @@ vista: terrifies us in its sublime vision. I am spending time describing all of 
 
 ---
 
-The geek in me thrills at the ability to read, and make sense of, thousands of documents at a time.
-
-The pessimist in me worries about what off-loading meaning-making to an algorithm does to our sense of humanity.
+### ...so what?
 
 Note:
-we have to understand what the method does well enough to know when what we're seeing is an artefact of how we've shaped the data, how we've put our thumb on the scales. We are taught every day to accept the outcome of the algorithm as neutral, divine even - "I'm sorry sir but the computer says..."
+we have to understand well enough what the methods of dh do, to know when what we're seeing is an artefact of how we've shaped the data, how we've put our thumb on the scales. Then we have to teach that. We are conditioned every day to accept the outcome of the algorithm as neutral, divine even - "I'm sorry sir but the computer says...". in educational terms, its the purely instrumental view of education, the transactional perspective, the 'mad skillz'. it goes back to the index card I first showed you: conflating 'big data' with 'dh' is done to disempower you, to make you feel an imposter.
 
 ---
 
@@ -143,6 +147,8 @@ Note:
 archaeology had its moment about 20 odd years ago re computation: computation was there to *prove* something! it was all hypothesis testing, sampling strategies, models and the goal: 'mid range theory', something that would bridge the fragmentary evidence to the grand stories about the past we wanted to tell. the archaeology wars were bitter, divisive. there are still the true believers out there, but most now recognize that you do all of these things in a framework of interpretation, that the computation doesn't *prove* anything, in and of itself. instead, it helps tell better v worse stories. the DH versionn of this summed up in this lovely aphorism of trevor owens.
 
 ---
+<section data-background="drew/john-t-413908.jpg">
+</section>
 
 DH is about discovery
 
@@ -153,7 +159,7 @@ When we explore we sometimes encounter blind allies
 Exploration is necessarily about failure
 
 Note:
-'exploration' in a 'Sailing to Byzantium' sense, rather than in a colonial sense.
+'exploration' in a 'TS Elliot, four quartets', know the place for the first time' sense, rather than in a colonial sense.
 
 ---
 
@@ -167,9 +173,6 @@ Note:
 Note:
 Do we *ever* talk about research that *doesn’t* confirm an hypothesis? Do we *ever* try to replicate someone else’s study? - 20 000 articles topic model - No topic that explicitly deals with something *not* working - This, despite the processual turn, where you might’ve expected such a beast! Nb, btw, the long prehistory of ‘digital’ type work in anglophone archaeology: even before the digital was invented, *digital habits of thought* existed. Perhaps these were a necessary precursor to enable digital work to happen in the first place
 
----
-![img](failpics/data-in-20000.png)
-
 [click here to explore the corpus on your own](http://graeworks.net/digitalarchae/20000/)
 
 ---
@@ -177,22 +180,6 @@ Do we *ever* talk about research that *doesn’t* confirm an hypothesis? Do we *
 
 Note:
 Framing fail in research & professional practice. tendency to spin, frame as win ; leads to inflated claims of success; to value fail means to not play the academic game as we currently find it.
-
----
-
-## A Taxonomy of Fails
-
-1 - Technological Failure<br>
-2 - Human Failure<br>
-3 - Failure as Artifact<br>
-4 - Failure as Epistemology<br>
-<p class="fragment fade-up">5 - Failing to Reflect</p>
-
-Note:
-taxonomy. a strategy for productive fails. move from types 1 & 2 to types 3 & 4. continue the parable of heritagecrowd, the welders: the reporting back, the warts-and-all!
-Croxall and Warnick, working from the perspective of digital pedagogy, identify 4 kinds of fail
-1-4, with examples - one thing not mentioned in any of this is the whiteness and maleness of the internet, and of internet culture. It might be that everything I’m saying is impossibly tainted by the fact I’m a white guy in tech: and I don’t have the necessary perspective to work out whether or not what I’m saying is dangerous or not.
--The first two refer to what happened; the second two refer to our response and how we react to the first two (*if* we react at all). Perhaps there should be a 5th category: 5 - failing to reflect.
 
 ---
 ## The Lunatick Moment
@@ -210,6 +197,23 @@ Note:
 -despair post & the response & the framing of what I was doing as perhaps more akin to Bethany’s ideas about our ‘lunatic’ moment. does that moment still exist? I hope it does
 
 ---
+
+## Croxall and Warnick's <br> Taxonomy of Fails
+
+1 - Technological Failure<br>
+2 - Human Failure<br>
+3 - Failure as Artifact<br>
+4 - Failure as Epistemology<br>
+<p class="fragment fade-up">5 - Failing to Reflect</p>
+
+Note:
+taxonomy. a strategy for productive fails. move from types 1 & 2 to types 3 & 4. continue the parable of heritagecrowd, the welders: the reporting back, the warts-and-all!
+Croxall and Warnick, working from the perspective of digital pedagogy, identify 4 kinds of fail
+1-4, with examples - one thing not mentioned in any of this is the whiteness and maleness of the internet, and of internet culture. It might be that everything I’m saying is impossibly tainted by the fact I’m a white guy in tech: and I don’t have the necessary perspective to work out whether or not what I’m saying is dangerous or not.
+-The first two refer to what happened; the second two refer to our response and how we react to the first two (*if* we react at all). Perhaps there should be a 5th category: 5 - failing to reflect.
+
+---
+
 ## Failure as Pedagogy
 
 - frameworks and scaffolds
@@ -231,6 +235,37 @@ hist3814, reclaim hosting, etc
 
 ---
 
+### Brandon Walsh - 'Frustration is a Feature'
+
+> In DH we often valorize failure and what can be learned from it, but it can be difficult to know how to deal with the feelings associated with it...<br><Br> Beyond the content we teach and the act of learning it - our students are living in states of continual anxiety. To say nothing of the personal, social, or systemic traumas to which many of them have been subjected about which we may never know.
+
+Note:
+this is how I failed Marc in the welding class. re my current students - "If I wanted to study computers I wouldn't be taking history". How do I deal with the anxiety now? By focussing on process, rather than product. By insisting on full documentation of what they're doing, _why_ they're doing it, and how they see it _intersecting_ what they read, and their other classes.
+
+---
+
+### HIST3814o
+
+- [fully online](http://craftingdigitalhistory.ca); all CC - manual and [workbook](http://workbook.craftingdigitalhistory.ca)
+- modules arranged in order of a real DH research project
+- readings to set context, exercises to build practice
+  - exercises pitched at progressively harder/more technical levels
+  - ['Push until you fail, then tell us why and what went wrong'](http://site.craftingdigitalhistory.ca/rubric-and-assessment.html#weekly-work)
+
+---
+
+- Students all have own domains
+- Slack for community spaces
+- Hypothesis for collaborative readings
+- Github for open notebooks
+- Unessay for final 'swing for the bleachers' moment
+
+---
+
+# Wrapping Up
+
+---
+
 ### The Humane Hack - Alan Liu
 
 > The humanities thus have an explanation for the new arts of the information age, ... Inversely, the arts offer the humanities serious ways of engaging - both practically and theoretically- with 'cool'. <br>  Together, the humanities and arts might be able to offer a persuasive argument for the humane arts in the age of knowledge work. (Liu 2004, 381)
@@ -245,15 +280,7 @@ DH suffers from being seen as 'cool' or the 'next big thing' or the 'saviour of 
 > Revisiting science and art: which is more ecological now? Why is art leading the way in promoting radical ecological awareness? The goals of today's science are modelling, prediction and control. Is that why we turn to art to rediscover the humility that science has lost?
 
 Note:
-what is big data but the newest tool of prediction and control?
-
----
-
-### shameless plug
-
-Epoiesen - A Journal for Creative Engagement in History and Archaeology
-
-https://epoiesen.library.carleton.ca/
+what is big data but the newest tool of prediction and control? 'humility' - regaining humility in our teaching I think is the flip side to recognizing the anxieties that our students have
 
 ---
 <section data-background="uclbigdatagothic/granny_weatherwax_by_daoyiliu-d8h0z0i.jpg">
@@ -282,3 +309,11 @@ To 'Fail Gloriously' is to take pleasure in what you learn, and in how you learn
 _That_ is the Human in the Digital Humanities
 <br><br>
 _thank you_
+
+---
+
+### shameless plug
+
+Epoiesen - A Journal for Creative Engagement in History and Archaeology
+
+https://epoiesen.library.carleton.ca/
