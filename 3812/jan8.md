@@ -7,7 +7,7 @@
 
 #### hist3812, winter 2018
 #### shawngraham.github.io
-follow along at 
+follow along at
 
 http://bit.ly/3812_jan8
 
@@ -17,8 +17,8 @@ http://bit.ly/3812_jan8
 
 <section data-background="3812/thomas-martinsen-2443.jpg">
 </section>
-
-** The Plan **
+<div align = "left">
+### The Plan ###
 
 + Key Questions
 + Weekly Flow
@@ -35,24 +35,64 @@ http://bit.ly/3812_jan8
 
 Note:
 ask them t-p-s their ideas of history, digital history
+digital history is about experimentation
+
+---
+<section data-background="3812/swapnil-dwivedi-246205.jpg">
+
+Note:
+Experimental Archaeology - one of the things we do in archaeology is build/make, to try to understand through making. so i wondered, what would making in history look like? - my sshrc grant i'm writing; makes y'all my collaborators
+
+---
+<section data-background="3812/chuttersnap-478260.jpg">
+<div align = "left">
+#Your Mistake
+#Was
+#a
+#Vital
+#Connection
+
+
+Note:
+Brian Eno
 
 ---
 
-[![syllaus teaser thing](https://img.youtube.com/vi/9kxyQxNN-bc/0.jpg)](https://www.youtube.com/watch?v=9kxyQxNN-bc)
+![heritagecrowd](3812/heritagecrowd.png)
 
 Note:
-Critical thing here is the notion of breaking things. Discussion: what have you broken? HeritageCrowd discussion
+Not asking you to do anything I haven't already done, for higher stakes. Critical thing here is the notion of breaking things. Discussion: what have you broken? HeritageCrowd discussion
+
+---
+
+## I want your mistakes
+## to be vital connections
+
+---
+
+"making" vs "hacking"
+
+> It's as if 'hacking' has been sanitized and transformed into 'making' - with politics, activism, tactics, history, economics and social issues removed in the process'
+
+[Making Critical Making - Garnet Hertz](http://conceptlab.com/criticalmaking/PDFs/CriticalMaking2012Hertz-Introduction-pp01to10-Hertz-MakingCriticalMaking.pdf)
+
+Note:
+Here here's critizing 'Make' magazine for sanitizing hacker work that 'circumvents' infrastructures, or that open up the black box of consumer electronics to see how things actually work
+
+---
+
+# A quick look at Digital History
 
 ---
 
 <section data-background="3812/lance-anderson-59330.jpg">
     <div align="right">
 
-How do the following break your expectations?
+How do the following<br> break your expectations of history?
 
-[Pembroke Soundscapes](http://pembrokesoundscapes.ca) - pembrokesoundscapes.ca
+[Pembroke Soundscapes](http://pembrokesoundscapes.ca)
 
-[Jamaican Slave Revolt](http://revolt.axismaps.com/map/) - revolt.axismaps.com
+[Jamaican Slave Revolt](http://revolt.axismaps.com/map/)
 
 [Sonic Word Clouds](https://programminghistorian.org/posts/sonic-word-clouds)  
 - sound file at http://bit.ly/sonic-word-cloud
@@ -70,16 +110,26 @@ Which one is most exciting? Where is the 'History' in it?
 
 ---
 
-<section data-background="3812/james-pond-191266.jpg">
-<div align="right"><font color="white">
->
-### Let's break something.
-<section>
+Your mission is to 'write' history by making.
 
-Note:
-maybe get them to play with the inspector, and 
+By translating something physical into the digital and back again.
+
+Your work will look different.
+
+_this is ok_
 
 ---
+<section data-background="3812/matthew-henry-7328.jpg">
+<div align="left">
+<h4> <font color="black">Do I Need to Be Techy?</h4>
+</div>
+
+<div align="right"><br><Br>
+<h1><font color="black">No.</h1>
+</div>
+
+---
+
 <section data-background="3812/glenn-carstens-peters-190592.jpg">
     <div align="right"><font color ="black">
 <br><br><br><br><br><br><br><br><br><br><br><br>
@@ -95,8 +145,20 @@ maybe get them to play with the inspector, and
 
 + collaborative reading with [hypothes.is](http://web.hypothes.is)
 + open notebook with [github](http://github.io)
-+ entry tickets 
++ entry tickets
 
+Note:
+show them how to make a note in github. tell them that they can make their course notes there; also, to keep track of things that worked, didn't work, and so on. Show them - https://github.com/sarahmcole/hist3814o/blob/master/july09_module1_faillog.md or https://github.com/sarahmcole/hist3814o/blob/master/Module%201%20Exercise%201%20(1).md
+
+---
+
+## Markdown
+
+- separate content from container
+- write in plaintext
+- convert to whatever format is needed
+
+Exercise: [dillinger.io](https://dillinger.io/)
 
 ---
 
@@ -109,10 +171,10 @@ maybe get them to play with the inspector, and
 
 ---
 
-<section data-background="3812/annie-spratt-217517.jpg">
+<section data-background="3812/ian-schneider-66374.jpg">
 
 Note:
-The Reward
+their concerns? The Reward
 t-p-s what do they think they'll actually get out of all this
 
 
@@ -120,17 +182,20 @@ t-p-s what do they think they'll actually get out of all this
 
 _Go Break Something!_
 
+- read the core philosophical pieces; annotate as you go
+- come on wednesday with an intriguing bit written down for us
 
 ---
 
 ## Photo/Art Credits
 ### these creators via unsplash.com :
 
-+ Christopher Burns
 + Thomas Martinsen
 + Neil Cooper
++ Swapnil Dwivedi
 + Lance Anderson
-+ James Pond
 + Glenn Carstens Peters
 + Baptiste l'Hopitault
-+ Annie Spratt
++ Ian Schneider
++ Chuttersnap
++ Matthew Henry
