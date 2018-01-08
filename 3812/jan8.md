@@ -185,6 +185,9 @@ _Go Break Something!_
 - read the core philosophical pieces; annotate as you go
 - come on wednesday with an intriguing bit written down for us
 
+Note:
+On wednesday, after discussion, help them get everything they need in github set up, including taking them through the submission form
+
 ---
 
 ## Photo/Art Credits
