@@ -13,3 +13,5 @@
   - also jonudell facet exploration, getting your api, downloading
 - dillinger exercise to learn markdown - write up point form on what they've discussed
 - github exercise - get that markdown article up into their notebook
+
+... something to read: http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/
