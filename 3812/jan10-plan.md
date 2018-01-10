@@ -9,6 +9,7 @@
 - discussion - note that nobody has read the latour article? ok, very few.
   - note that these papers are all written in different technological contexts
     - what do we know about the history and culture of the tools used?
+    - what gets _forgotten_ when we reproduce something? see digitization of sound, see lossy formats like jpg
   - show the hypothesis group, ways to explore it, tags
   - also jonudell facet exploration, getting your api, downloading
 - dillinger exercise to learn markdown - write up point form on what they've discussed
