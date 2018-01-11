@@ -88,7 +88,7 @@ White guy on the internet warnings.
 
 
 Note:
-+ or why DH suffers from the two annoying problems
+or why DH suffers from the two annoying problems
 
 ---
 
@@ -101,13 +101,6 @@ Note:
 Note:
 technological sublime - where conception of algorithms as precise and technology working at scope beyond human comprehension meet. (paige c morgan).
 
-
----
-<section data-background="tim/troy_pba_pottery_tent.jpg">
-</section>
-Note:
-different sized corpora that humanists deal with. relativity of ‘big’. humanists not the only ones who pretend that because something is digital it is somehow 'data' rather than 'capta'. 'big' is a moving goalpost. Bigger, faster, theory-free, everything will percolate up in the associations and correlations... we've been here before. DO NOT CONFLATE DH WITH BIG DATA
-
 ---
 
 <div align="left">
@@ -118,7 +111,7 @@ different sized corpora that humanists deal with. relativity of ‘big’. human
 <section data-background="uclbigdatagothic/saturn-eating-child.jpg"></section>
 
 Note:
-These two reactions - the rejection and wholehearted adoption of magical methods seem to me to be two sides of the same coin. I like the phrase 'big data gothic' to describe this.
+These two reactions - the rejection and wholehearted adoption of magical methods seem to me to be two sides of the same coin. I like the phrase 'big data gothic' to describe this, but Paige's phrasing 'technological sublime' is better.
 
 ---
 
@@ -135,13 +128,15 @@ vista: terrifies us in its sublime vision. I am spending time describing all of 
 ### ...so what?
 
 Note:
-we have to understand well enough what the methods of dh do, to know when what we're seeing is an artefact of how we've shaped the data, how we've put our thumb on the scales. Then we have to teach that. We are conditioned every day to accept the outcome of the algorithm as neutral, divine even - "I'm sorry sir but the computer says...". in educational terms, its the purely instrumental view of education, the transactional perspective, the 'mad skillz'. it goes back to the index card I first showed you: conflating 'big data' with 'dh' is done to disempower you, to make you feel an imposter.
+we have to understand that DH != rhetoric of big data, or 'machine learning' or 'artificial intelligence' or 'blockchain' and to resist the technological sublime. We are conditioned every day to accept the outcome of the algorithm as neutral, divine even - "I'm sorry sir but the computer says...". in educational terms, its the purely instrumental view of tech education, it's fitting your teaching to what the LMS can do rather than bending the LMS to your will. it goes back to the index card I first showed you: conflating 'big data' with 'dh' is done to disempower you, to make you feel an imposter.
 
 ---
 
 ### The Critical Difference:
 
 ## Justification versus Discovery
+
+h/t [Trevor Owens](http://www.trevorowens.org/2012/11/discovery-and-justification-are-different-notes-on-sciencing-the-humanities/)
 
 Note:
 archaeology had its moment about 20 odd years ago re computation: computation was there to *prove* something! it was all hypothesis testing, sampling strategies, models and the goal: 'mid range theory', something that would bridge the fragmentary evidence to the grand stories about the past we wanted to tell. the archaeology wars were bitter, divisive. there are still the true believers out there, but most now recognize that you do all of these things in a framework of interpretation, that the computation doesn't *prove* anything, in and of itself. instead, it helps tell better v worse stories. the DH versionn of this summed up in this lovely aphorism of trevor owens.
@@ -205,13 +200,13 @@ Note:
 2 - Human Failure<br>
 3 - Failure as Artifact<br>
 4 - Failure as Epistemology<br>
-<p class="fragment fade-up">5 - Failing to Reflect</p>
 
 Note:
 taxonomy. a strategy for productive fails. move from types 1 & 2 to types 3 & 4. continue the parable of heritagecrowd, the welders: the reporting back, the warts-and-all!
 Croxall and Warnick, working from the perspective of digital pedagogy, identify 4 kinds of fail
 1-4, with examples - one thing not mentioned in any of this is the whiteness and maleness of the internet, and of internet culture. It might be that everything I’m saying is impossibly tainted by the fact I’m a white guy in tech: and I don’t have the necessary perspective to work out whether or not what I’m saying is dangerous or not.
 -The first two refer to what happened; the second two refer to our response and how we react to the first two (*if* we react at all). Perhaps there should be a 5th category: 5 - failing to reflect.
+set up your learning so that fails 1 and 2 happen, but the *real* learning happens if you can move 'em to 3 and 4!
 
 ---
 
@@ -227,7 +222,12 @@ Croxall and Warnick, working from the perspective of digital pedagogy, identify 
 
 - [the Unessay](http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay)
 - [Open notebooks](http://wcm1.web.rice.edu/open-notebook-history.html)
+- [Collaborative Annotation with Hypothes.is](http://hypothes.is)
+
+---
+- [HIST3812w Critical Making In Digital History](https://shawngraham.github.io/hist3812w18/)
 - [HIST3814o Crafting Digital History](http://craftingdigitalhistory.ca)
+- [HIST5702w Guerilla Digital Public History](https://shawngraham.github.io/5702w-w18/)
 <br><br>
 (For more ideas, see [Keywords in Digital Pedagogy](https://digitalpedagogy.mla.hcommons.org/))
 
@@ -253,28 +253,45 @@ this is how I failed Marc in the welding class. re my current students - "If I w
   - exercises pitched at progressively harder/more technical levels
   - ['Push until you fail, then tell us why and what went wrong'](http://site.craftingdigitalhistory.ca/rubric-and-assessment.html#weekly-work)
 
----
-
-- Students all have own domains
+Note:
+Students all have own domains
 - Slack for community spaces
 - Hypothesis for collaborative readings
 - Github for open notebooks
 - Unessay for final 'swing for the bleachers' moment
 
 ---
+<section data-background="drew/3812screen.png">
+
+[hist3812<Br> course site](https://shawngraham.github.io/hist3812w18/schedule/)
+---
+
+I sometimes also like to explore students' annotations with them via [Voyant Tools](http://voyant-tools.org/?corpus=91b6feff4324275aa2617469c417e8fa)
+
+---
+
+### George Garth Graham
+#### Undergraduate Digital Research Fellowship
+
+![](http://grahamresearchfellow.org/wp-content/uploads/2013/11/Garth-Graham-banner.jpg)
+
+[grahamresearchfellow.org](http://grahamresearchfellow.org/)
+---
 
 # Wrapping Up
 
 ---
-
-### The Humane Hack - Alan Liu
-
-> The humanities thus have an explanation for the new arts of the information age, ... Inversely, the arts offer the humanities serious ways of engaging - both practically and theoretically- with 'cool'. <br>  Together, the humanities and arts might be able to offer a persuasive argument for the humane arts in the age of knowledge work. (Liu 2004, 381)
-
+<section data-background="drew/samuel-zeller-336980.png">
+<div align="right">
+### The <Br>Humane<br> Hack <br><br> Alan Liu
+</div>
 Note:
-DH suffers from being seen as 'cool' or the 'next big thing' or the 'saviour of the humanities'. Lots of people get their knickers in a twist over this. This goes back to what Alan Liu argued about the laws of 'cool' in 2004, of how 'knowledge work' was the 'cool' work, in that it couldn't really be defined. We only know cool when we see it. Hence, 'cool' is the aporia of information: 'cool is information designed to resist information'. Thus, it's also shallow. Thus the humanities counters the shallowness of 'cool'
+DH suffers from being seen as 'cool' or the 'next big thing' or the 'saviour of the humanities'. Lots of people get their knickers in a twist over this. This goes back to what Alan Liu argued about the laws of 'cool' in 2004, of how 'knowledge work' was the 'cool' work, in that it couldn't really be defined. We only know cool when we see it. Hence, 'cool' is the aporia of information: 'cool is information designed to resist information'. Thus, it's also shallow.
+
+artistic practice offers models for dealing - we need to fold artistic ways of knowing into our practice - to my mind, an experimental process based, fail based, way of knowing. that's how we deal with the 'cool' of tech.
 
 ---
+<section data-background="drew/karen-kayser-358613.jpg">
 
 ### From Science to Art and Back Again - Tim Ingold
 
@@ -306,17 +323,36 @@ Note:
 ---
 <section data-background="drew/senjuti-kundu.png"></section>
 <div align="right">
-To 'Fail Gloriously' <Br>is to take pleasure <br>in what you learn, <Br>and<br> in how you learn it.
+To 'Fail Gloriously' <Br>is to take pleasure <br>in what you learn, <Br>and<br> in how you learn it, <br> as you break things.
 <br><br>
 _That_ is the Human <br>in the Digital Humanities
-<br><br>
+<br>
 _thank you_
 </div>
 
+Note:
+Anxiety is a feature; embrace the disorientation, and use the technology to find each other!
+
 ---
 
-### shameless plug
+#### _shameless plug_
 
-Epoiesen - A Journal for Creative Engagement in History and Archaeology
+## Epoiesen <br>
+### A Journal for Creative Engagement in History and Archaeology
 
 https://epoiesen.library.carleton.ca/
+
+---
+
+#### photo credits <br> these creators via unsplash.com
+
+matthaeus -
+christopher burns -
+veeterzy -
+neil cooper -
+john t  <br>
+samuel zeller -
+karen kayser -
+senjuti kundu
+
+_Granny Weatherwax painting by daoyiliu, deviantart_
