@@ -6,8 +6,8 @@
 ###Guerilla Digital <br> Public History
 
 #### hist5702, winter 2018
-#### [shawngraham.github.io/5702w-w18/#](shawngraham.github.io/5702w-w18/#)
-#### [github.com/shawngraham/5702w-w18/wiki](github.com/shawngraham/5702w-w18/wiki])
+#### [shawngraham.github.io/5702w-w18/#](http://shawngraham.github.io/5702w-w18/#)
+#### [github.com/shawngraham/5702w-w18/wiki](http://github.com/shawngraham/5702w-w18/wiki])
 
 ---
 
