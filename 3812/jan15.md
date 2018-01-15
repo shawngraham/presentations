@@ -1,11 +1,35 @@
 <section data-background="3812/jan15-1.JPG">
 
-# Intro to Photogrammetry
+### Intro to Photogrammetry
 
 ---
 
 + part of a suite of approaches related to geomatics, computer vision
-+ the kind we now see in apps & getting more userfriendly is _structure from motion_
++ the kind we now see in apps & getting more user-friendly is _structure from motion_
+
+---
+
+This kind of thing:
+
+![](http://www.spatialhumanities.de/typo3temp/pics/TLS_Terrestrial_Laser_scanner_Spatial_Humanities_1e016bb648.png)
+
+---
+
+to this kind of thing:
+
+![](https://hackadaycom.files.wordpress.com/2013/09/rubicon.jpg?w=800&h=483)
+
+---
+
+to this kind of thing:
+
+![](https://3dscanexpert.com/wp-content/uploads/bevel-3d-scanner-review-package-1500x810.x92699.jpg)
+
+...which doesn't really work very well at all...
+
+---
+
+...all you really need is just a camera...
 
 ---
 
@@ -19,7 +43,7 @@
 
 ---
 
-![](3812/pompeii-book.jpg)
+![](3812/pompeii-book.jpeg)
 
 Built from [this video](https://youtu.be/EfeSZ7KTVnQ)
 
@@ -51,17 +75,7 @@ Here's [one of the models](https://sketchfab.com/models/e24007259dda4d08865838dd
 
 # The Diary In The Attic
 
->Shawn dusted off the old diary. ‘Smells of mould’, he thought, as he flipped through the pages.
-
-> Hmmph. Somebody was pretty careless with their coffee.
-
-> I think it’s coffee.
-
-> Hmm.
-
-> Doesn’t smell like coffee. 
-
-> What the hell…. damn, this isn’t coffee.
+>Shawn dusted off the old diary. 'Smells of mould', he thought, as he flipped through the pages.'Hmmph. Somebody was pretty careless with their coffee. <br> I think it’s coffee. <br> Hmm. <br> Doesn’t smell like coffee. <br> What the hell…. damn, this isn’t coffee.
 
 Shawn cast about him, looking for the android digital spectralscope he kept handy for such occasions. Getting out his phone, he loaded the spectralscope up and, taking a safe position two or three feet away, gazed through it at the pages of the diary.
 
@@ -107,7 +121,7 @@ English Heritage: [Photogrammetric Applications for Cultural Heritage](https://h
 
 ---
 
-![](3812/jan15-4.JPG)
+![](3812/jan15-4.jpg)
 
 ---
 
