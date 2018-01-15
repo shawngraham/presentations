@@ -1,3 +1,26 @@
+
+### housekeeping
+
+---
+
+### http://jonudell.net/h/facet.html
+
+![](3812/udell.png)
+
+---
+
+![](3812/3812-topics.png)
+
+---
+
+![](3812/keywords-user.png)
+
+---
+
+![](3812/bigrams-date.png)
+
+---
+
 <section data-background="3812/jan15-1.JPG">
 
 ### Intro to Photogrammetry
