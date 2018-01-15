@@ -106,6 +106,8 @@ Shawn cast about him, looking for the android digital spectralscope he kept hand
 
 > My god...it's full of...
 
+[download](https://www.dropbox.com/s/sviayk1qu0cad23/original-diary-in-attic-msudai.zip?dl=0)
+
 ---
 
 [My Sketchfab Account](https://sketchfab.com/electricarchaeo)
