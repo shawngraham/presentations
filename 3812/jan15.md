@@ -161,7 +161,7 @@ Sources of other models:
 
 - [sketchfab.com](http://sketchfab.com)
 - [thingverse](https://www.thingiverse.com/)
-- possibly also [https://3d.si.edu/browser/](https://3d.si.edu/browser/)
+- [smithsonian](https://3d.si.edu/browser/) (hit the info button on a model for the download options)
 
 ---
 
