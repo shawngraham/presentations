@@ -144,25 +144,37 @@ English Heritage: [Photogrammetric Applications for Cultural Heritage](https://h
 
 ![](3812/jan15-2.JPG)
 
+take overlapping images; you want a high degree of overlap
+
 ---
 
 ![](3812/jan15-3.JPG)
+
+tie points are matched
 
 ---
 
 ![](3812/jan15-4.jpg)
 
+camera orientations are deduced
+
 ---
 
 ![](3812/jan15-5.JPG)
+
+dense point cloud generated
 
 ---
 
 ![](3812/jan15-6.JPG)
 
+chief ray is the line from the object, through the lens, to the image plate
+
 ---
 
 ![](3812/jan15-7.JPG)
+
+intersection of many of these allows the software to work out the location of the point in space
 
 ---
 
