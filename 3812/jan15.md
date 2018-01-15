@@ -1,9 +1,79 @@
+<section data-background="3812/jan15-1.JPG">
+
 # Intro to Photogrammetry
 
 ---
 
 + part of a suite of approaches related to geomatics, computer vision
 + the kind we now see in apps & getting more userfriendly is _structure from motion_
+
+---
+
+### Some Things I've Tried
+
+---
+
+[Pop-Up Book, FYSM1405](https://electricarchaeologist.files.wordpress.com/2012/05/fysm1405_cover_and_book_2.pdf)
+
+[model](https://p3d.in/zwPEM/spin)
+
+---
+
+![](pompeii-book.jpg)
+
+Built from [this video](https://youtu.be/EfeSZ7KTVnQ)
+
+---
+
+CSTM project on the Air Canada Collection
+
+- view with [Augment](https://play.google.com/store/apps/details?id=com.ar.augment&hl=en)
+
+- [download the book here](http://5702x.graeworks.net/wp-content/uploads/2014/04/version-for-web-april112014-2.pdf). 
+
+It's been a while since I checked this. It might not work anymore. 
+
+---
+
+Here's [one of the models](https://sketchfab.com/models/e24007259dda4d08865838ddc5addcf4)
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/e24007259dda4d08865838ddc5addcf4/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/models/e24007259dda4d08865838ddc5addcf4?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Air Canada Stewardess&#39; Dress, CSTM</a>
+    by <a href="https://sketchfab.com/electricarchaeo?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">electricarchaeo</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>
+
+---
+
+<section data-background="https://electricarchaeologist.files.wordpress.com/2015/07/m1.jpg">
+
+# The Diary In The Attic
+
+>Shawn dusted off the old diary. ‘Smells of mould’, he thought, as he flipped through the pages.
+
+> Hmmph. Somebody was pretty careless with their coffee.
+
+> I think it’s coffee.
+
+> Hmm.
+
+> Doesn’t smell like coffee. 
+
+> What the hell…. damn, this isn’t coffee.
+
+Shawn cast about him, looking for the android digital spectralscope he kept handy for such occasions. Getting out his phone, he loaded the spectralscope up and, taking a safe position two or three feet away, gazed through it at the pages of the diary.
+
+> My god… it’s full of….
+
+---
+
+[My Sketchfab Account](https://sketchfab.com/electricarchaeo)
+
+---
+
+## Ok. So how do _we_ do any of that?
 
 ---
 
@@ -23,7 +93,35 @@ English Heritage: [Photogrammetric Applications for Cultural Heritage](https://h
 - secondary product generation
 - analysis / presentation
 
---
+---
+
+![](3812/jan15-1.JPG)
+
+---
+
+![](3812/jan15-2.JPG)
+
+---
+
+![](3812/jan15-3.JPG)
+
+---
+
+![](3812/jan15-4.JPG)
+
+---
+
+![](3812/jan15-5.JPG)
+
+---
+
+![](3812/jan15-6.JPG)
+
+---
+
+![](3812/jan15-7.JPG)
+
+---
 
 ### chief ray & principle of intersection, collinearity
 
@@ -46,3 +144,28 @@ this is the sparse reconstruction
 
 - repeats the process above but for all possible control points
 - a 'triangulated irregular network' TIN is generated, a mesh, onto which textures can be mapped using regular graphics software
+
+---
+
+### then what?
+
+- download to your computer; clean up with ie [meshlab](http://www.meshlab.net/) or [blender](https://www.blender.org/)
+
+---
+
+- you can also use meshlab to mash up your model with something else
+
+---
+
+Sources of other models:
+
+- [sketchfab.com](http://sketchfab.com)
+- [thingverse](https://www.thingiverse.com/)
+-
+
+
+- upload to Sketchfab for sharing, hosting
+
+---
+
+
