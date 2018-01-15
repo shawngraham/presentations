@@ -106,7 +106,9 @@ Shawn cast about him, looking for the android digital spectralscope he kept hand
 
 > My god...it's full of...
 
-[download](https://www.dropbox.com/s/sviayk1qu0cad23/original-diary-in-attic-msudai.zip?dl=0)
+[download apk](https://www.dropbox.com/s/pbj9tng5t2z7me1/nilediary2.apk?dl=0)
+
+[download diary](https://www.dropbox.com/s/ygivh6xkof935xy/nilediary.pdf?dl=0)
 
 ---
 
