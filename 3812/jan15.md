@@ -1,6 +1,8 @@
 
 ### housekeeping
 
+follow along at [http://j.mp/2DAg3hg](http://j.mp/2DAg3hg)
+
 ---
 
 ### http://jonudell.net/h/facet.html
