@@ -100,11 +100,11 @@ Here's [one of the models](https://sketchfab.com/models/e24007259dda4d08865838dd
 
 # The Diary In The Attic
 
->Shawn dusted off the old diary. 'Smells of mould', he thought, as he flipped through the pages.'Hmmph. Somebody was pretty careless with their coffee. <br> I think it's coffee. <br> Hmm. <br> Doesn't smell like coffee. <br> What the hell…. damn, this isn't coffee.
+>Shawn dusted off the old diary. 'Smells of mould', he thought, as he flipped through the pages.'Hmmph. Somebody was pretty careless with their coffee. <br> I think it's coffee. <br> Hmm. <br> Doesn't smell like coffee. <br> What the hell... Damn, this isn't coffee.
 
 Shawn cast about him, looking for the android digital spectralscope he kept handy for such occasions. Getting out his phone, he loaded the spectralscope up and, taking a safe position two or three feet away, gazed through it at the pages of the diary.
 
-> My god… it's full of….
+> My god...it's full of...
 
 ---
 
