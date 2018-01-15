@@ -161,11 +161,16 @@ Sources of other models:
 
 - [sketchfab.com](http://sketchfab.com)
 - [thingverse](https://www.thingiverse.com/)
--
+- possibly also [https://3d.si.edu/browser/](https://3d.si.edu/browser/)
 
+---
 
 - upload to Sketchfab for sharing, hosting
 
 ---
 
+## Wednesday:
+
+- I'll be in the department, in the Underhill Resource Room (go to the foyer, turn left, left again) to show folks how to use Agisoft Photoscan (where you take photos with your own camera and then process them, no app)
+- You can join me there, or, you can head out onto campus, into the city, or one of the museums, and try some 3d photogrammetry on your own.
 
