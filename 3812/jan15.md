@@ -19,7 +19,7 @@
 
 ---
 
-![](pompeii-book.jpg)
+![](3812/pompeii-book.jpg)
 
 Built from [this video](https://youtu.be/EfeSZ7KTVnQ)
 
