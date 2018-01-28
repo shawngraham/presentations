@@ -7,7 +7,7 @@
 ## and the<br>ontological meaning<br>of your models
 
 Jan 29, 2018<br>
-Follow along at <br>bit.ly/3812-jan29
+Follow along at <br>j.mp/3812-01-29
 
 ---
 <section data-background="3812/jess-watters-483666.jpg">
