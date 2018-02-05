@@ -3,7 +3,7 @@
 <h1 style="color:#000"> Module 2 <br> History <br>is a Remix</h1>
 
 <p style="color:#000">Follow along at: http://j.mp/3812-feb5
-
+<br><br>
 _by the way, this week's reading is awesome_
 </p>
 
