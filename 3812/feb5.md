@@ -2,9 +2,10 @@
 <div align="left">
 <h1 style="color:#000"> Module 2 <br> History <br>is a Remix</h1>
 
-Follow along at:
+<p style="color:#000">Follow along at: http://j.mp/3812-feb5
 
 _by the way, this week's reading is awesome_
+</p>
 
 ---
 
