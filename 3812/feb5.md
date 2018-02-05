@@ -49,6 +49,16 @@ code is law - remix culture messes with that - so creative commons as a way to c
 
 ---
 
+<section data-background="3812/pseudo.png">
+
+---
+
+<section data-background="https://culturallymodified.org/wp-content/uploads/2017/10/Salmon-Copper-and-Elk.jpg">
+
+<div align="left"><Br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> [Joann Hammond](https://culturallymodified.org/decolonizing-bcs-roadside-history/)
+
+---
+
 ![](3812/sample.png)
 
 Note:
