@@ -15,7 +15,9 @@ Note:
 
 ## Museums <Br> and <br> Reproductions
 
+follow along at [http://j.mp/3812-feb12](http://j.mp/3812-feb12)
 
+if you look at the source markdown, you'll find my notes too eh?
 ---
 
 ## Plaster Casts
