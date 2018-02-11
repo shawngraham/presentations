@@ -236,3 +236,7 @@ ask them for their take-always
 ### Credits
 
 - title image by Valentina Crisari http://www.redivivi.com/project/museodellaciviltaromana/
+
+- creators on unsplash.com: Filip Mroz, Simone Hutsch
+
+- other images credited in the markdown source file in the repository
