@@ -7,7 +7,9 @@
 
 <div align = "left">
 <br><br><br>	
-	<h1 style="color:#000"> Virtual Worlds of the Past </h1>
+	<h2 style="color:#000"> Virtual Worlds<br> of the Past </h2>
+	<br><br>
+	<h3>an intro to games/history</h3>
 
 ---
 ## Module 3
@@ -35,7 +37,7 @@ Or perhaps this:
 
 <section data-background="https://i.ytimg.com/vi/i0nL8gWblBM/maxresdefault.jpg">
 	
-Or yes, even this.
+Or yes <br> even this.
 
 ---
 Agenda
@@ -62,6 +64,8 @@ dare I try the original problem space? maybe just convert it to pdf, show if nec
 Chris Crawford
 
 >Games are... the most ancient and time-honored vehicle for education. They are the original educational technology, the natural one, having received the seal of approval of natural selection. 
+
+![](https://images-na.ssl-images-amazon.com/images/I/41CA%2BsvKRVL.jpg)
 
 Note:
 Who is Chris Crawford?
@@ -292,7 +296,8 @@ By the way...
 I got the weirdest attachment in an old university email account of mine. Subject line was, ‘help’. 
 
 ---
-<section data-background="3812/hist3812puzzle.png">
+
+![](3812/hist3812puzzle.png)
 
 
 
