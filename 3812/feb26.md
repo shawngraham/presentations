@@ -4,6 +4,8 @@
 	
 ---
 <section data-background="3812/jessi-pena-525409-unsplash.jpg">
+
+<div align = "left">
 	
 # Virtual Worlds of the Past
 
