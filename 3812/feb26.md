@@ -158,4 +158,116 @@ How can some ways of representing time/space in a game correspond better/worse w
 Note:
 insert table 2.
 
+---
+
+# Alternate Reality Games
+
+Perhaps the best mode for the historian?
+
+Notes:
+Ergodic texts
+Hypertext
+Oulipo
+Literary Hoaxes
+‘found footage’
+Amongst many other vectors that make the idea of an ‘alternate reality game’ something possible
+
+
+---
+Ergodic Texts 
+(require 'work' to read)
+
+Note:
+The most famous example is the Choose Your Own Adventure series (Edward Packard et al, 1979ff), which are both played and read at the same time. Published for a children’s audience, and beloved by ARG designers and players alike, these books reared two generations on both hypertext and the practice of reading a story as game/game as story. A similar group of books is the Fighting Fantasy series (1980ff), which let readers jump from page to page by dice rolls as well as choices. Espen Aarseth describes these influential texts as “ergodic”, requiring work (“erg”) to read. Like ARGs, “playing” ludic texts is essential to reading them. Unlike a traditionally linear text, like a Shakespearean history play, with a one-way track through events, the reader must choose a path through alternatives
+- *"require performance to be understood" aarseth*
+
+---
+The Beast
+
+Note:
+2001
+Certain letters circled on some posters
+A line in the credits for: 
+ Jeanine Salla, "Sentient Machine Therapist."
+This becomes the ‘rabbit hole’ for a murder mystery. ‘this is not a game’ is a recurring phrase on websites, profiles, etc that seem to be related to the mystery.
+Took place across 30 websites – ad hoc group of players calling themselves ‘cloudmakers’ solved it
+http://www.cloudmakers.org/
+
+---
+I Love Bees
+
+ARGs hit the big time
+
+---
+
+An elaborate backstory & consuming narrative
+Series of transmedia puzzles and challenges to move the story forward
+Played in parallel to everyday reality; players become aware gradually of what’s going on, form communities to unravel the story
+
+---
+
+Tecumseh Lies Here
+
+Note:
+A player’s report on the beta version of this: http://activehistory.ca/2012/05/tecumseh-lies-here/
+
+---
+Is it right to screw with history? 
+Can hoaxes, lies, and conspiracy elicit broader truths?
+What happens if you don’t recognize that this is not a game?
+Mills Kelly & The Last American Pirate
+
+---
+Karen Schrier,
+Who fired the first shot of the revolution?
+
+2005 first digital history ARG?
+
+Note:
+GPS + PDAs, navigate Lexington interrogating NPCs from both sides
+
+---
+What went wrong:
+Tech difficulties
+Competing against the clock
+Player roles not obvious (couldn’t ask in-role questions of the npcs)
+Main goal overwhelming
+
+What went right:
+Tech difficulties
+Competing against the clock
+Player roles not obvious (couldn’t ask in-role questions of the npcs)
+Main goal overwhelming
+
+Note:
+
+---
+So why bother:
+
+Of value to historians for:
+Immersive, authentic experience
+Have to think like a historian to succeed
+Allows multiple viewpoints, inhabit multiple viewpoints
+Emergent meaning making
+Appropriate given this world of ubiquitous computing?
+Dangers for historians?
+
+---
+MacDougall & Campeau write:
+
+>Instead  of telling a story,” says author and ARG designer Sean Stewart, “we ... present the evidence of that story, and let the players tell it to themselves.”Elsewhere, Stewart has called this process “storytelling as archaeology—or possibly, the other way around.”
+
+> What Stewart describes, of course, is very close to the process of real historical research…. Historical research is the game.
+
+---
+By the way...
+
+I got the weirdest attachment in an old university email account of mine. Subject line was, ‘help’. 
+
+---
+Insert that crazy old slide here
+
+
+Allegories of control, illumination, of unknowing masses…. 
+
 
