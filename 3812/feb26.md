@@ -88,6 +88,11 @@ Understanding that all reconstructions of the past are interpretations: provisio
 
 For the pleasure of finding out what happens next
 
+Note:
+why do players play?
+what happens next?
+what happens if I do this?
+
 ---
 
 In many ways, the same motivation for historians:
@@ -146,17 +151,21 @@ More useful: a typology of time and space
 
 When you can classify, you can judge when/how/if a particular game/representation is suited to a particular purpose- or the purposes to which such a game is being put.
 
+Note:
+
+insert table 2.
+
 ---
 
 How can some ways of representing time/space in a game correspond better/worse with various historical episodes?
+
+Note:
+have them think of a game they know well, categorize it
 
 ---
 
 >In the video-game epic mode, gone are the historic event and the historic site. The digitalization of history in video games thus brings together spatialization, virtualization, and simulation to complete the elimination of representation as the medium that anchored historical action to historical consciousness. – Fogu, 121
 
-
-Note:
-insert table 2.
 
 ---
 
@@ -251,6 +260,7 @@ Allows multiple viewpoints, inhabit multiple viewpoints
 Emergent meaning making
 Appropriate given this world of ubiquitous computing?
 Dangers for historians?
+Allegories of control, illumination, of unknowing masses…. 
 
 ---
 MacDougall & Campeau write:
@@ -265,9 +275,8 @@ By the way...
 I got the weirdest attachment in an old university email account of mine. Subject line was, ‘help’. 
 
 ---
-Insert that crazy old slide here
+<section data-background="3812/hist3812puzzle.png">
 
 
-Allegories of control, illumination, of unknowing masses…. 
 
 
