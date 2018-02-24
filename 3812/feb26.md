@@ -6,7 +6,7 @@
 <section data-background="3812/jessi-pena-525409-unsplash.jpg">
 
 <div align = "left">
-<br><br><br>	
+<br><br><br><br><br><br><br>	
 	<h2 style="color:#000"> Virtual Worlds<br> of the Past </h2>
 	<br><br>
 	<h3>an intro to games/history</h3>
@@ -80,11 +80,14 @@ All games: four qualities- representation, interaction, conflict, safety
 ---
 
 MDA Model
-Three dimensions to measure a game along (Robin Hunicke, Marc LeBlanc, Robert Zubeck)
+Three dimensions to measure a game along 
+([Robin Hunicke, Marc LeBlanc, Robert Zubeck](http://www.cs.northwestern.edu/~hunicke/MDA.pdf))
 
-Mechanics
-Dynamics
-Aesthetics
++ Mechanics
++ Dynamics
++ Aesthetics
+
+Not the only scheme out there; but useful to begin with
 
 Note:
 Mechanics- basic rules and code of a game. Now what we see or hear while playing a game, rather, the information that goes into constructing  the world of the game: algorithms to control AI, for instance
@@ -92,9 +95,10 @@ Dynamics: the way the game play emerges from the mechanics- the events that actu
 Aesthetics: the emotional responses evoked in the player as he or she interacts with the games: sensation; fantasy; narrative; challenge; fellowship; discovery; expression; submission (game as pasttime)
 
 ---
-So why do historians care?
+<section data-background="3812/nigel-tadyanehondo-346836-unsplash.jpg">
 
 Note:
+So why do historians care?
 Jeremiah McCall on what games/simulations are for?
 -pose meaningful questions about peoples of the past
 Evaluate sources and analyze the evidence they provide about the past
@@ -107,7 +111,7 @@ Understanding that all reconstructions of the past are interpretations: provisio
 
 ---
 
-For the pleasure of finding out what happens next
+### For the pleasure of finding out what happens next
 
 Note:
 why do players play?
@@ -116,14 +120,15 @@ what happens if I do this?
 
 ---
 
-In many ways, the same motivation for historians:
-What happened then?
-Why did it happen?
-To play a game successfully, the gamer has to learn why things happen the way they do in order to win
-To be a successful historian, the historian has to learn why things happened the way they did
+### In many ways, the same motivation for historians:
++ What happened then?
++ Why did it happen?
++ To play a game successfully, the gamer has to learn why things happen the way they do in order to win
++ To be a successful historian, the historian has to learn why things happened the way they did
 
 ---
-
+<section data-background="3812/darren-bockman-58266-unsplash.jpg>
+			  
 Simulations are superior tools for learning about historical context, historical systems, and historical limitations.
 
 Note:
