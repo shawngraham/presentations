@@ -1,4 +1,4 @@
-<section data-background="3812/filip-mroz-220805.jpg">
+<section data-background="3812/kathy.png">
 <div align="right">
 <h2 style="color:#000">Housekeeping</h2>
 	
