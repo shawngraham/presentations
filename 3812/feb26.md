@@ -6,9 +6,8 @@
 <section data-background="3812/jessi-pena-525409-unsplash.jpg">
 
 <div align = "left">
-<br><br><br><br><br><br><br>	
+<br><br><br><br><br><br><br><br><br>	
 	<h2 style="color:#000"> Virtual Worlds<br> of the Past </h2>
-	<br><br>
 	<h3>an intro to games/history</h3>
 
 ---
@@ -127,16 +126,21 @@ what happens if I do this?
 + To be a successful historian, the historian has to learn why things happened the way they did
 
 ---
+
 <section data-background="3812/darren-bockman-58266-unsplash.jpg>
 			  
-Simulations are superior tools for learning about historical context, historical systems, and historical limitations.
-
 Note:
+Simulations are superior tools for learning about historical context, historical systems, and historical limitations.
 Simulation games remedy the forgetfulness of context and the functioning systems that encompassed people of the past.: it putts students into dynamic recreations of roles and situations from the past- puts students at center of complex systems where a variety of variable factors ebb/flow simultaneously in ways that cannot be readily represented in other media.
-
 -to analyze a system, use a roughly analogous but simplified model of the system. 
 
 ---
+<section data-background="https://cdn.pixabay.com/photo/2015/06/14/22/02/delphi-809657_960_720.jpg">
+<Br><br><br><br><br>
+	
+### Not oracles. Interpretations
+
+Note:
 Simulation games are interpretations, not oracles
 They are interpretations that encourage historical questions
 
