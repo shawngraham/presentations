@@ -6,7 +6,7 @@
 <section data-background="3812/jessi-pena-525409-unsplash.jpg">
 
 <div align = "left">
-<br><br><br><br><br><br><br><br><br>	
+<br><br><br><br><br><br><br><br><br><br>	
 	<h3 style="color:#000"> Virtual Worlds<br> of the Past </h3>
 	<h4>an intro to games/history</h4>
 
@@ -135,7 +135,7 @@ Simulation games remedy the forgetfulness of context and the functioning systems
 -to analyze a system, use a roughly analogous but simplified model of the system. 
 
 ---
-<section data-background="3812/delphi-809657_640">
+<section data-background="3812/delphi-809657_640.jpg">
 <Br><br><br><br><br>
 	
 ### Not oracles. Interpretations
