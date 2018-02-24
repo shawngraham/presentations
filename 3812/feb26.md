@@ -7,8 +7,8 @@
 
 <div align = "left">
 <br><br><br><br><br><br><br><br><br>	
-	<h2 style="color:#000"> Virtual Worlds<br> of the Past </h2>
-	<h3>an intro to games/history</h3>
+	<h3 style="color:#000"> Virtual Worlds<br> of the Past </h3>
+	<h4>an intro to games/history</h4>
 
 ---
 ## Module 3
