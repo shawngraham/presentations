@@ -1,6 +1,7 @@
-## Housekeeping
-
-
+<section data-background="3812/filip-mroz-220805.jpg">
+<div align="right">
+<h2 style="color:#000">Housekeeping</h2>
+	
 ---
 
 # Virtual Worlds of the Past
