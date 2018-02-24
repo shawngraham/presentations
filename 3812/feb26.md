@@ -7,7 +7,7 @@
 
 <div align = "left">
 <br><br><br>	
-# Virtual Worlds of the Past
+	<h1 style="color:#000"> Virtual Worlds of the Past </h1>
 
 ---
 ## Module 3
@@ -18,11 +18,24 @@ Immersion: or, how do you natively engage with digital objects about the past?
 Answer: perhaps with the medium most appropriate
 
 ---
+![](https://pbs.twimg.com/media/DU4SeSHUQAEmNUa.jpg)
+
 What you will produce for this module
 
 Note:
 emphasize the tying together
 
+---
+
+Or perhaps this:
+
+![McCall](3812/mccall.png)
+
+---
+
+<section data-background="https://i.ytimg.com/vi/i0nL8gWblBM/maxresdefault.jpg">
+	
+Or yes, even this.
 
 ---
 Agenda
