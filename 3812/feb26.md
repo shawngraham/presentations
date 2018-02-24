@@ -127,7 +127,7 @@ what happens if I do this?
 
 ---
 
-<section data-background="3812/darren-bockman-58266-unsplash.jpg>
+<section data-background="3812/darren-bockman-58266-unsplash.jpg">
 			  
 Note:
 Simulations are superior tools for learning about historical context, historical systems, and historical limitations.
@@ -135,7 +135,7 @@ Simulation games remedy the forgetfulness of context and the functioning systems
 -to analyze a system, use a roughly analogous but simplified model of the system. 
 
 ---
-<section data-background="https://cdn.pixabay.com/photo/2015/06/14/22/02/delphi-809657_960_720.jpg">
+<section data-background="3812/delphi-809657_640">
 <Br><br><br><br><br>
 	
 ### Not oracles. Interpretations
