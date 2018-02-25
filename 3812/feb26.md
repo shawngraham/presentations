@@ -7,8 +7,8 @@
 
 <div align = "left">
 <br><br><br><br><br><br><br><br><br><br>	
-	<h3 style="color:#000"> Virtual Worlds<br> of the Past </h3>
-	<h4>an intro to games/history</h4>
+	<h3> Virtual Worlds<br> of the Past</h3>
+	<h4> an intro to games/history </h4>
 
 ---
 ## Module 3
@@ -110,7 +110,8 @@ Understanding that all reconstructions of the past are interpretations: provisio
 
 ---
 
-### For the pleasure of finding out what happens next
+#### Why do we play games?
+<p class="fragment fade-up">  For the pleasure of finding out <br> what happens next</p>
 
 Note:
 why do players play?
@@ -138,18 +139,28 @@ Simulation games remedy the forgetfulness of context and the functioning systems
 <section data-background="3812/delphi-809657_640.jpg">
 <Br><br><br><br><br>
 	
-### Not oracles. Interpretations
+<div align="left">
+<br><br><br><br><br><br><br><br><br><br>
+<h3 style="color:#000"> Not oracles.<br> Interpretations.</h3>
 
 Note:
 Simulation games are interpretations, not oracles
 They are interpretations that encourage historical questions
 
 ---
+<section data-background="3812/stefan-steinbauer-452213-unsplash.jpg">
 
+Note:
 _ditto the historical monograph_
 
 ---
+<section data-background="3812/gear-3164897_640.jpg">
 
+<div align="left">
+<br><br><br><br><br><br><br><br><br><br><br>
+### Procedural Literacy<br> Procedural Rhetorics
+
+Note:
 So you need to have _procedural literacy_; you need to understand _procedural rhetorics_. 
 
 the mechanisms of the game = the historiographic tradition
@@ -158,52 +169,53 @@ the mechanisms of the game = the historiographic tradition
 
 
 ---
-
-What (historical) games have you played? What made them historical? What made them good?
+<section data-background="3812/harpal-singh-306142-unsplash.jpg">
+<div align="left">
+<br><br><br><br><br><br><br><br><br><br><br><br><Br>
+What (historical) games have you played?<br> What made them historical? <br> What made them good?
 
 Note:
 genres are marketing categories. A typology should help you understand something fundamental, to situate this game relative to that game can also help to know how scholars have studied things
 
 ---
-
-Ludology: The study of games. Also: The study of games as a unique field, especially as distinct from narrative). 
-
-Ludus – rule-based games (Space Invaders!)
-Paidea – free-form games (GTA!)
-
+<div align="left">
+Ludology: The study of games. Also: The study of games as a unique field, especially as distinct from narrative). <br>
+<br>
+Ludus - rule-based games (Space Invaders!)<br>
+Paidea - free-form games (GTA!)
+<br><br>
 Narratology: the study of storytelling; the study of games as story systems.
 
 ---
 
 More useful: a typology of time and space
 
-![](#)
+![](3812/typology.png)![](3812/typologyinuse.png)
 
-When you can classify, you can judge when/how/if a particular game/representation is suited to a particular purpose- or the purposes to which such a game is being put.
-
-Note:
-
-insert table 2.
-
----
-
-How can some ways of representing time/space in a game correspond better/worse with various historical episodes?
+<div align="left">When you can classify, you can judge when/how/if a particular game/representation is suited to a particular purpose- or the purposes to which such a game is being put.
 
 Note:
-have them think of a game they know well, categorize it
-
----
-
->In the video-game epic mode, gone are the historic event and the historic site. The digitalization of history in video games thus brings together spatialization, virtualization, and simulation to complete the elimination of representation as the medium that anchored historical action to historical consciousness. – Fogu, 121
 
 
 ---
 
-# Alternate Reality Games
+Let's classify some games you know.
+
+Note:
+-how can some ways of representing time/space in a game correspond with various historical episodes?
+-have them think of a game they know well, categorize it
+- Final word to Claudio Fogu: In the video-game epic mode, gone are the historic event and the historic site. The digitalization of history in video games thus brings together spatialization, virtualization, and simulation to complete the elimination of representation as the medium that anchored historical action to historical consciousness. – Fogu, 121
+
+
+---
+
+![](https://www.wired.com/images_blogs/underwire/2015/04/The-Beast-A.I.jpg)
+
+### Alternate Reality Games
 
 Perhaps the best mode for the historian?
 
-Notes:
+Note:
 Ergodic texts
 Hypertext
 Oulipo
@@ -213,15 +225,16 @@ Amongst many other vectors that make the idea of an ‘alternate reality game’
 
 
 ---
-Ergodic Texts 
-(require 'work' to read)
+![](https://blog.codinghorror.com/content/images/uploads/2008/03/6a0120a85dcdae970b0120a86db856970b-pi.jpg)
+
+### Ergodic Texts 
 
 Note:
-The most famous example is the Choose Your Own Adventure series (Edward Packard et al, 1979ff), which are both played and read at the same time. Published for a children’s audience, and beloved by ARG designers and players alike, these books reared two generations on both hypertext and the practice of reading a story as game/game as story. A similar group of books is the Fighting Fantasy series (1980ff), which let readers jump from page to page by dice rolls as well as choices. Espen Aarseth describes these influential texts as “ergodic”, requiring work (“erg”) to read. Like ARGs, “playing” ludic texts is essential to reading them. Unlike a traditionally linear text, like a Shakespearean history play, with a one-way track through events, the reader must choose a path through alternatives
-- *"require performance to be understood" aarseth*
+- *"require performance to be understood" aarseth* focus on "mechanical organization of text". ergon, work, hodos, path. effort to traverse text both for understanding also in construction/unfolding. aarseth 1997. The most famous example is the Choose Your Own Adventure series (Edward Packard et al, 1979ff), which are both played and read at the same time. Published for a children’s audience, and beloved by ARG designers and players alike, these books reared two generations on both hypertext and the practice of reading a story as game/game as story. A similar group of books is the Fighting Fantasy series (1980ff), which let readers jump from page to page by dice rolls as well as choices. Espen Aarseth describes these influential texts as “ergodic”, requiring work (“erg”) to read. Like ARGs, “playing” ludic texts is essential to reading them. Unlike a traditionally linear text, like a Shakespearean history play, with a one-way track through events, the reader must choose a path through alternatives
+
 
 ---
-The Beast
+![](https://www.wired.com/images_blogs/underwire/2015/04/The-Beast-A.I.jpg)
 
 Note:
 2001
@@ -233,81 +246,98 @@ Took place across 30 websites – ad hoc group of players calling themselves ‘
 http://www.cloudmakers.org/
 
 ---
-I Love Bees
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SNhurUnOWKQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+---
 
-ARGs hit the big time
++ An elaborate backstory & consuming narrative
++ Series of transmedia puzzles and challenges to move the story forward
++ Played in parallel to everyday reality; players become aware gradually of what’s going on, form communities to unravel the story
 
 ---
 
-An elaborate backstory & consuming narrative
-Series of transmedia puzzles and challenges to move the story forward
-Played in parallel to everyday reality; players become aware gradually of what’s going on, form communities to unravel the story
-
----
-
-Tecumseh Lies Here
+![](https://timothycompeau.files.wordpress.com/2015/06/picture1.png)
 
 Note:
 A player’s report on the beta version of this: http://activehistory.ca/2012/05/tecumseh-lies-here/
 
 ---
+<section data-background="https://timothycompeau.files.wordpress.com/2015/06/picture3.jpg">
+
+Note:
 Is it right to screw with history? 
 Can hoaxes, lies, and conspiracy elicit broader truths?
 What happens if you don’t recognize that this is not a game?
 Mills Kelly & The Last American Pirate
 
 ---
+
+![](https://www.gamecareerguide.com/db_area/images/item_images/gcg/features/20060831/first_map2.jpg)
+![](https://www.gamecareerguide.com/db_area/images/item_images/gcg/features/20060831/newbelfry.jpg)
+
+Note:
 Karen Schrier,
 Who fired the first shot of the revolution?
 
 2005 first digital history ARG?
 
-Note:
 GPS + PDAs, navigate Lexington interrogating NPCs from both sides
 
----
-What went wrong:
-Tech difficulties
-Competing against the clock
-Player roles not obvious (couldn’t ask in-role questions of the npcs)
-Main goal overwhelming
-
-What went right:
-Tech difficulties
-Competing against the clock
-Player roles not obvious (couldn’t ask in-role questions of the npcs)
-Main goal overwhelming
-
-Note:
 
 ---
-So why bother:
+### ARGS for History: The Killer App
 
 Of value to historians for:
-Immersive, authentic experience
-Have to think like a historian to succeed
-Allows multiple viewpoints, inhabit multiple viewpoints
-Emergent meaning making
-Appropriate given this world of ubiquitous computing?
-Dangers for historians?
-Allegories of control, illumination, of unknowing masses…. 
+
++ Immersive, authentic experience
++ Have to think like a historian to succeed
++ Allows multiple viewpoints, inhabit multiple viewpoints
++ Emergent meaning making
 
 ---
+
+<section data-background="3812/m-wrona-254897-unsplash.jpg">
+<br><br><br><br><Br><br><br><br><br><br><br><br><br><br><br>
+<div align="left">
+#### if you go out in the woods today...
+
+Note:
++ Appropriate medium given this world of ubiquitous computing?
++ Dangers for historians?
+	+ allegories of control, illumination, of unknowing masses... 
 MacDougall & Campeau write:
+Instead  of telling a story," says author and ARG designer Sean Stewart, "we ... present the evidence of that story, and let the players tell it to themselves." Elsewhere, Stewart has called this process “storytelling as archaeology—or possibly, the other way around.”
 
->Instead  of telling a story,” says author and ARG designer Sean Stewart, “we ... present the evidence of that story, and let the players tell it to themselves.”Elsewhere, Stewart has called this process “storytelling as archaeology—or possibly, the other way around.”
-
-> What Stewart describes, of course, is very close to the process of real historical research…. Historical research is the game.
+What Stewart describes, of course, is very close to the process of real historical research…. Historical research is the game.
 
 ---
+
+### You can make ARGs
+
+![](3812/aris.png)
+
+https://fielddaylab.org/make/aris/
+
+...but maybe that'd be better for Module 4...
+
+---
+
+### Prairie, Twine
+
++ See FAQs for Module 3
+
+---
+
 By the way...
 
-I got the weirdest attachment in an old university email account of mine. Subject line was, ‘help’. 
+I got the weirdest attachment in an old university email account of mine. Subject line was, 'help'. 
 
 ---
 
 ![](3812/hist3812puzzle.png)
 
+--- 
 
+Photos:
 
-
+jessi pena | nigel tadyanehondo | darren bockman 
+<br>stefan steinbauer | harpal singh | m wrona
