@@ -6,7 +6,7 @@
   <tr>
   <td align="left">
   <h3 style="color:#000">small acts of disruption<br>in archaeological<br>publishing</h2></td>
-  <td align="right">Shawn Graham<br> @electricarchaeo <br> follow along at j.mp/
+  <td align="right">Shawn Graham<br> @electricarchaeo <br> follow along at j.mp/SG-caa2018
   </td>
   </tr>
   </table>
@@ -179,9 +179,11 @@ Note:
 conclusion - small acts of disruption in archaeological publishing are actually large acts of disruption in how we think about, with, and through digital archaeology. archaeology and the senses? archaeology and the digital. The digital is just another sense.
 
 ---
+Unsplash Photos by:
 
-pixabay pics:
+jon tyson | adrian tormo | nasa | franck veschi | neonbrand <br>
+dan gold | matt collamer | brandon green | matt jones
 
- monkey-3098404_1280 JerzyGorecki
+Pixabay Photos by:
 
- road-90390 kewl
+JerzyGorecki | kewl
