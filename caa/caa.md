@@ -6,7 +6,7 @@
   <tr>
   <td align="left">
   <h3 style="color:#000">small acts of disruption<br>in archaeological<br>publishing</h2></td>
-  <td align="right">Shawn Graham<br> @electricarchaeo <br> follow along at j.mp/SG-caa2018
+  <td align="right">Shawn Graham<br> @electricarchaeo <br> follow along at<br> j.mp/SG-caa2018
   </td>
   </tr>
   </table>
