@@ -11,6 +11,12 @@
   </tr>
   </table>
 
+Note:
+A small experiment in failing gloriously in public - i want to put my publishing projects into a framework of information ethics & sensory archaeology.
+- ABM: simple rules, complex results;
+- small cahnge: unpredictable results:
+- i want to think about some small things we can do that disrupt
+- the first small thing is to realize that ethical considerations have to be front and centre with digital archae
 
 ---
 
@@ -21,7 +27,7 @@
 </div>
 
 Note:
-Allison Parish: “a computer program is a way of projecting power. That’s the point of a computer program, is to make a decision and then have it happen millions of times. That’s the real ethical dimension of this for me”
+Allison Parish, poet & programmer at NYU: “a computer program is a way of projecting power. That’s the point of a computer program, is to make a decision and then have it happen millions of times. That’s the real ethical dimension of this for me”
 
 ---
 <section data-background="caa/adrian-tormo-316868-unsplash.jpg">
@@ -38,6 +44,7 @@ start from first principles:
 - fundamental action of computer: to copy
 - fundamental result of copying: connection
 - fundamental consequence of connection: extended sensorium
+- digital archaeology is an extended kind of digital kinaesthetia, we go into the flow
 
 ---
 
@@ -46,55 +53,33 @@ start from first principles:
 Note:
 let's talk about the things of digital:
 
-in information ethics the importance of a thing lies not in its immediate materiality. rather, the importance lies in the relationships that enable or disable action. Data entities make meaning, or have meaning, in terms of their relationships with other data entities. Thus, data entities exist in an ecology of relationships - the Infosphere. The practical import of this is to extend agency to the platform, or objects served by the platform, and to situate them at the same level as the human.
+Luciano Floridi: treats everything that exists as informational objects or processes (including bio and other entities, right into databases, agents, etc)
+- everything that exists, exists in relation to everything else, with at least some minimum worth. Thus anything that destroys or diminishes data is entropy or morally evil
 
+‘Information ethics describes a moral universe [an infosphere] in which not only is no being alone, but every being is indeed morally related to other beings, because in their well-being is connected the welfare of the whole system. [journals] are systems that affect larger systems with their actions, affecting themselves as well, since other systems are procedurally and informationally related to them… Information ethics considers moral actions an information process’. (130). He said 'agents'; I said 'journals'
 
-‘Information ethics describes a moral universe in which not only is no being alone, but every being is indeed morally related to other beings, because in their well-being is connected the welfare of the whole system. [journals] are systems that affect larger systems with their actions, affecting themselves as well, since other systems are procedurally and informationally related to them… Information ethics considers moral actions an information process’. (130). He said 'agents'; I said 'journals'
+- consider: a paywall is an immoral act because it promotes entropy, it diminishes informational entities
 
-
-information ethics situates the issue within the the web of interrelated elements and agents to develop a weighted network of relationships
-
+- journals, as we know and love them today fundamentally prevent _connection_; connection is a kind of sensation (especially digitally)
 ---
 
-<section data-background="caa/franck-veschi-517860-unsplash.jpg">
-
-Note:
-
-if we are all in a web, then twinges in one place are sensed somewhere else and take their meaning from the accumulate twinges sensed at a location. we are connected, we are all aware.
-
-so let's talk about the digital senses
-
----
-
-<section data-background="https://cdn.manomano.fr/cartello-segnaletica-vietato-lingresso-ai-non-addetti-ai-lavori-cm-30x20-P-335196-1052862_1.jpg">
+<section data-background="caa/dan-gold-523168-unsplash.jpg">
 
 Note:
 
 hamilakis 2013 - 415 - argues that aesthetics + politics share same ontological ground: the distribution of the sensible - what is allowed to be sensed + experienced + what is not, what is deemed appropriate or permissible to be sensorially appreciated + embodied and by whom - consensus that is established (imposed or tacitly accepted) sensorial order _ dissensus, the challenge to that order by pushing new + heterodox sensorial regime
 
----
-
-<section data-background="caa/neonbrand-395901-unsplash.jpg">
-
-Note:
-
-so: i put it to you that digital archaeology is a sensory archaeology, a kinaesthetic sense of others in time and space.
-digital archaeology: digital kinaesthetics? working in a digital force-field, extended senses, extended mind, extended social sense… well beyond the western-constructed 5 senses
-
-but what is allowed to be sensed under our current publishing regimes?
-
----
-<section data-background="caa/dan-gold-523168-unsplash.jpg">
-
-Note:
-why do we recreate paper journals, skeuomorphs, with the inherited bullshit of the old media? this is to shut ourselves off from our digital kinaesthetia? This is what leads to some current issues with publishing: undervalued labour; profiteering/rent seeking; cognitive offloading of judging quality
 
 ---
 <section data-background="caa/matt-collamer-555626-unsplash.jpg">
 
 Note:
 
+- to stop entropy, we need to restore sensation, that digital archaeological kinaesthesia of distant knowing
+
 hamilakis talks not of senses but of a sensorial field that returns affectivity to our work - “sensoriality + affectivity also enable + invite a radically different approach to the presentation of the archaeological work, be it in scholarly publications, popular authors, or museum displays, thus creating affective instances + environments for diverse publics” h book 20
+
+- this is where my projects come into it. I think. You'll tell me if I'm wrong, eh? ;)
 
 ---
 
@@ -120,7 +105,7 @@ what did ‘epoiesen’ imply for them?:
 </div>
 
 Note:
-the first small act of disruption: a focus on the affect of digital or other creative work
+the first small act of disruption: a focus on the affectivity of digital or other creative work
 
 ---
 
@@ -152,7 +137,7 @@ another small act: reframing peer review. not about quality assurance. not about
 
 Note:
 
-ODATE - some more small acts. Now, Hamilakis points out H book 9 - archaeology a device of modernity that relies on sense of autonomous and disembodied vision - on other hand, that attitude undermined by intensely physical, embodied interaction with things and environments. This is the same idea that Caraher points to in his 'slow' archaeology.
+ODATE - some more small acts. Now, Hamilakis points out H book 9 - archaeology a device of modernity that relies on sense of autonomous and disembodied vision - on other hand, that attitude undermined by intensely physical, embodied interaction with things and environments. This is the same idea that Caraher points to in his 'slow' archaeology. digital archaeology is slow.
 
 ---
 
@@ -168,7 +153,7 @@ ODATE is a digital archaeology textbook environment that sits in the same sensuo
 
 Note:
 
-ODATE: digital archaeology is slow. It is organic. Built on github, language of forks and branches is a biological one. ODATE is always going to be wrong and out of date. That is a strength: with github, replicability and reproducibility and cutting and pasting of the bits that _work for you_ . It will grow, there will be multiple copies. There will never be one canonical version of ODATE.
+ODATE: digital archaeology is slow. It is organic. Built on github, language of forks and branches is a biological one. ODATE is always going to be wrong and out of date. That is a strength: with github, replicability and reproducibility and cutting and pasting of the bits that _work for you_ . It will grow, there will be multiple copies. There will never be one canonical version of ODATE. That's a helluva disruption, right there.
 
 ---
 
@@ -176,7 +161,7 @@ ODATE: digital archaeology is slow. It is organic. Built on github, language of 
 
 Note:
 
-conclusion - small acts of disruption in archaeological publishing are actually large acts of disruption in how we think about, with, and through digital archaeology. archaeology and the senses? archaeology and the digital. The digital is just another sense.
+conclusion - small acts of disruption in archaeological publishing are actually large acts of disruption in how we think about, with, and through digital archaeology. if we think of archaeological publishing in terms of information ethics and archaeological senses, I think there's one final small act of disruption that flows from that, and it's this: we all can do this, already. 
 
 ---
 Unsplash Photos by:
