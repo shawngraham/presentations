@@ -154,6 +154,8 @@ if however we stop the process just before the image labelling, we can use the v
 
 Note:
 
+disclaimer: These images are deliberately distant so that we can discuss the structure of what we're finding but not put the dead on display.
+
 This is where we are at right now. After turning all of the images into vector representations, we use some statistical magic (t-sne and affinity clustering propagation) to understand the structure of visual similarity in the posts. The clustering algorithm identifies 'exemplar' images for each of the clusters that it finds.
 
 ---
@@ -172,7 +174,9 @@ Note:
 
 So far, it appears that the computer can discriminate skulls for sale by their arrangement on the shelf. Items for sale are arranged in ways that mimic 'popular' understandings of museology - glass cabinets with skulls arranged by size for instance.
 
-These images are deliberately distant so that we can discuss the structure of what we're finding but not put the dead on display.
+Other clusters have been photographed square to the face, and largely fill the frame, and the associated language is largely of 'look at my collection' and 'look what i just gave away', perhaps signalling in other images that these materials could also be 'given away' - for a price. Another cluster positions the skulls such that they are turned slightly to the left; associated texts here clearly indicate something for sale.
+
+This initial experiment does seem to support the idea that items for sale are displayed in ways that are discernible to the machine, and so, the machine can be taught to trawl other bodies of data for more evidence of the trade in human remains. The machine directs our attention to the framing of photographs, and the relationship of the human remains to other elements within the photograph. Exhibition design – rows of objects in cases on display – are recreated here. The interplay of foreground and background also seems to be important. Photos composed to show off a collection might also be subtly signaling that the item might also be for sale. These signals could be isolated, and used to train further iterations of a CNN, allowing a researcher to scale up their investigation. We intend to cross-reference this data with the network of followers and followed, to see how these visual clusters play out across networks of influence and on other platforms aside from Instagram.
 
 ---
 
