@@ -4,7 +4,7 @@
 
 Shawn Graham [@electricarchaeo](http://twitter.com/electricarchaeo) & Damien Huffer [@DamienHuffer](http://twitter.com/DamienHuffer)
 
-follow along at http://j.mp/
+follow along at http://j.mp/bonetrade
 
 ---
 ![](saa2018/mosaic.jpg)
