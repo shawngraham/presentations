@@ -24,6 +24,8 @@ _how_ do they negotiate this sale?
 > 'I have a pile of teeny human skull scraps laying around. Due to etsys rules i cannot sell human bone or make a listing but id love to do custom orders for anyone interested in a pendant, ring, etc made from a human skull fragment. Dm me! #bone #bones #skull #humanbone #humanskull #fragment #skullfragment #oddities #oddity.'
 https://www.instagram.com/p/znHyR7AbXS/
 
+![](saa2018/skull-for-sale.jpg)
+
 Note:
 Not everyone is as bold as this. Most are aware that their _posts_ can be searched (ie key-word searching), and so rely on more subtle cues
 
