@@ -156,7 +156,7 @@ if however we stop the process just before the image labelling, we can use the v
 
 ---
 
-<section data-background="saa2018/8-98-1-SP.png">
+![](saa2018/8-98-1-SP.png)
 
 Note:
 
