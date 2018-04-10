@@ -49,7 +49,12 @@ Note:
 association with taxidermy, tattoo parlours - do i still have that cardiff photo?
 three broad groupings: specialists explicitly interested in bones; generalists who follow the bones but also other things; and people who don't post pictures themselves but follow the bone accounts
 
-Not shown: video of man in Belgium degreasing skull. Likely source for such a skull? WW1 battlefield.
+---
+
+![](saa2018/screenshot-belgian-video.png)
+
+Note:
+video of man in Belgium degreasing a skull. Likely source for such a skull? WW1 battlefield. He's preparing it for cutting into an exploded view.
 
 desecration of ww2 battleship wrecks - steel is pre 1945, so different atomic signature thus valuable; bones collected, given to the boss... what happens to them?
 
@@ -174,7 +179,7 @@ Note:
 
 So far, it appears that the computer can discriminate skulls for sale by their arrangement on the shelf. Items for sale are arranged in ways that mimic 'popular' understandings of museology - glass cabinets with skulls arranged by size for instance.
 
-Other clusters have been photographed square to the face, and largely fill the frame, and the associated language is largely of 'look at my collection' and 'look what i just gave away', perhaps signalling in other images that these materials could also be 'given away' - for a price. Another cluster positions the skulls such that they are turned slightly to the left; associated texts here clearly indicate something for sale.
+Other clusters have been photographed square to the face, and largely fill the frame, and the associated language is largely of 'look at my collection' and 'look what i just gave away', perhaps signaling in other images that these materials could also be 'given away' - for a price. Another cluster positions the skulls such that they are turned slightly to the left; associated texts here clearly indicate something for sale.
 
 This initial experiment does seem to support the idea that items for sale are displayed in ways that are discernible to the machine, and so, the machine can be taught to trawl other bodies of data for more evidence of the trade in human remains. The machine directs our attention to the framing of photographs, and the relationship of the human remains to other elements within the photograph. Exhibition design – rows of objects in cases on display – are recreated here. The interplay of foreground and background also seems to be important. Photos composed to show off a collection might also be subtly signaling that the item might also be for sale. These signals could be isolated, and used to train further iterations of a CNN, allowing a researcher to scale up their investigation. We intend to cross-reference this data with the network of followers and followed, to see how these visual clusters play out across networks of influence and on other platforms aside from Instagram.
 
