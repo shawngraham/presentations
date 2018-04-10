@@ -61,7 +61,7 @@ desecration of ww2 battleship wrecks - steel is pre 1945, so different atomic si
 ---
 
 ![](saa2018/8-100-1-SP.png)
-![](saa2017/ata.png)
+![](saa2018/ata.png)
 
 Note:
 
