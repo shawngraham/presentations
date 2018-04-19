@@ -1,15 +1,14 @@
-## You want me to _what_?!
-#### On the Importance of
-# Failing Gloriously
-
-<br><br><br>
-<div align="right">
-Shawn Graham, [@electricarchaeo](http://twitter.com/electricarchaeo)
-
+<section data-background="2018-04-20/fail-2360324_640.jpg" opacity = 80%>
+<div align = "right">
+<br><br><br><br>
+<h3 style="color:#000"> You want me to _what_?!</h2>
+<h5 style="color:#000"> On the Importance of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
+<h2 style="color:#000"> Failing Gloriously </h1>
+<p style="color:#000"> Shawn Graham,<Br>
 Department of History, <Br>Carleton University Ottawa Canada
 <br>
 follow along at
-
+</p>
 </div>
 ---
 ### My Name Is Shawn Graham
@@ -81,6 +80,8 @@ this is how I failed Marc in the welding class. re my current students - "If I w
 
 ## But I'm Not Techy!
 
+<iframe src="https://giphy.com/embed/McmEgVHMekWQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 _confession time_
 
 Note:
@@ -88,7 +89,7 @@ shawn as undergrad student with snarky paper. Doing digital work, thinking digit
 
 ---
 
-## Digital Work is about Failing in Public
+## Digital Work is about <Br> Failing in Public
 
 + failing in public goes against all your training. So why bother?
 + how do you do that _productively_?
@@ -126,7 +127,7 @@ set up your learning so that fails 1 and 2 happen, but the *real* learning happe
 
 ---
 
-## So Let's Fail Gloriously Together
+## So Let's<br> Fail Gloriously<br> Together
 
 [https://github.com/msu-anthropology/daea-fs16](https://github.com/msu-anthropology/daea-fs16)
 
@@ -136,11 +137,16 @@ Imagine you're given this link and told to go adapt it to your own project. Wher
 ---
 
 ## In what ways have we failed?
+<Br><Br>
 
 + How did _I_ fail?
 + How did _you_ fail?
 
+<br>
 Is 'fail' the right word here?
+
+Note:
+digital work is a team sport btw
 
 ---
 
@@ -162,15 +168,17 @@ keep process notes, document blind alleys. cite your notes in your papers! surfa
 
 ## 'But We Already Knew That!'
 
-
+<br><br><br>Let's take a look at the work of [Matthew Lincoln](https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html) <br> and how he deals with this.
 
 Note:
-https://matthewlincoln.net/2015/03/21/confabulation-in-the-humanities.html
+
 digital work suffers from this problem, of differentiating what sounds reasonable from what we already knew. let's take a look at what matthew lincoln says... it's a similar approach to what is being proposed in science papers, of 'preregistering' (there it's to combat fraud and p-hacking)
+
+
 
 ---
 
-## What I've learned about Failing Gloriously
+## What I've learned about <br>Failing Gloriously
 #### or, 'productive failure as pedagogy'
 
 - frameworks and scaffolds
@@ -191,11 +199,26 @@ students - go see how your artist peers deal with their work. study how artistic
 ---
 <section data-background="drew/senjuti-kundu.png"></section>
 <div align="right">
-To 'Fail Gloriously' <Br>is to take pleasure <br>in what you learn, <Br>and<br> in how you learn it, <br> as you break things, <br> and <br>reporting back on the process.
-
-<br>
-_thank you_
+To 'Fail Gloriously' <Br>is to take pleasure <br>in what you learn, <Br>and<br> in how you learn it, <br> as you break things.
 </div>
 
 Note:
 Anxiety is a feature; embrace the disorientation, and use the technology to find each other!
+
+---
+_that is to say,_
+
+### Meaningful Play
+![](2018-04-20/legoacademics.png)
+---
+_thank you_
+
+---
+#### photo credits
+
+[nemo 88](https://pixabay.com/en/fail-water-wake-board-drop-young-2360324/)
+| [@legoacademics](https://twitter.com/LegoAcademics)
+
+Creators via [Unsplash.com](http://unsplash.com):
+
+matthaeus | christopher burns | veeterzy | samuel zeller | senjuti kundu
