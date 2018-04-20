@@ -7,7 +7,7 @@
 <p style="color:#000"> Shawn Graham,<Br>
 Department of History, <Br>Carleton University Ottawa Canada
 <br>
-follow along at
+follow along at http://j.mp/sg-apr20
 </p>
 </div>
 ---
