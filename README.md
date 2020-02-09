@@ -1,3 +1,3 @@
 ## A whole lotta presenting goin' on.
 
-![elvis](http://vector-magz.com/wp-content/uploads/2013/07/elvis-clipart-231x300.jpg)
+![elvis](https://1001freedownloads.s3.amazonaws.com/vector/thumb/88986/elvis.png)
