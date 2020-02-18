@@ -2,8 +2,8 @@
 <div align = "right">
 <br><br><br><br>
 <h3 style="color:#000"> You want me to _what_?!</h2>
-<h5 style="color:#000"> On the Importance of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
-<h2 style="color:#000"> Failing Gloriously </h1>
+<h5 style="color:#000"> Failing Gloriously &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
+<h2 style="color:#000"> and the Digital Humanities </h1>
 <p style="color:#000"> Shawn Graham,<Br>
 Department of History, <Br>Carleton University<br> Ottawa Canada
 <br>
