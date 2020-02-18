@@ -2,8 +2,8 @@
 <div align = "right">
 <br><br><br><br>
 <h3 style="color:#000"> You want me to _what_?!</h2>
-<h5 style="color:#000"> Failing Gloriously &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
-<h2 style="color:#000"> and the Digital Humanities </h1>
+<h3 style="color:#000"> Failing Gloriously &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
+<h3 style="color:#000"> and the Digital Humanities </h1>
 <p style="color:#000"> Shawn Graham,<Br>
 Department of History, <Br>Carleton University<br> Ottawa Canada
 <br>
@@ -123,11 +123,20 @@ We are all imposters
 
 ---
 
-Because we are all imposters, 
-What the hang is a glorious failure Shawn?
+![](legoacademics2.png)
+
+Because we are all imposters, we don't have to do things the way we're expected to.
+
+---
+
+Ok then: So what the hang is a 'glorious failure'?
 
 Note:
 To fail gloriously is to embrace the freedom that being an imposter can give, to tinker, to break things, to imagine how things could be different, and to make it safe for others to do the same. [to]  fail  gloriously  is  to  use  the  privileges  that  you  have,  as  you  are  able,  to  make  it  safe  for  others to fail.
+
+---
+
+![](legoacademics.png)
 
 ---
 
@@ -259,12 +268,13 @@ students - go see how your artist peers deal with their work. study how artistic
 You are allowed <Br>to take pleasure <br>in what you learn, <Br>and<br> in how you learn it, <br> as you break things.
 </div>
 
+---
+
 To fail _gloriously_ is to use your own position, as you are able, to make it safe for someone more precarious than you to find similar joy.
 
-Note:
-Anxiety is a feature; embrace the disorientation, and use the technology to find each other!
 
 ---
+
 _thank you_
 
 ---
