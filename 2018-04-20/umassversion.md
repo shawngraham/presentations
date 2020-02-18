@@ -16,6 +16,7 @@ follow along at http://j.mp/
 
 Note:
 the hook- why is he a failure? what does that even mean? note training as roman archaeologist vs my actual work history. note that blogging in the early 00s was a way for me to feel less like a failure - on the internet, in those days, no one knew you were a dog... so I let it all hang out there. but I want to focus on two particular failures, and why they failed.
+
 ---
 <section data-background="drew/matthaeus-39968.jpg"><section>
 <div align="right">
@@ -111,6 +112,25 @@ Framing fail in research & professional practice. tendency to spin, frame as win
 
 ---
 
+Imposter syndrome
+
+![imposter syndrome vs dunning kruger](drew/card3259.jpg)
+
+- Jessica Hagy, _This Is Indexed_, 'Two Annoying Problems'
+
+Note:
+We are all imposters
+
+---
+
+Because we are all imposters, 
+What the hang is a glorious failure Shawn?
+
+Note:
+To fail gloriously is to embrace the freedom that being an imposter can give, to tinker, to break things, to imagine how things could be different, and to make it safe for others to do the same. [to]  fail  gloriously  is  to  use  the  privileges  that  you  have,  as  you  are  able,  to  make  it  safe  for  others to fail.
+
+---
+
 ## Croxall and Warnick's <br> Taxonomy of Fails
 
 1 - Technological Failure<br>
@@ -140,42 +160,32 @@ Not everyone can fail in public the way I can. You really gotta think about how 
 One way I suggest for shifting some of the risks to personal security is to frame the work within this discussion of the kind of fail with which we’re dealing. The second part is to move the discussion toward fail as something  we  study  (rather  than  something  inherent  to  us),  and  then  to  a  process,  to  a  way  we  iterate  through  what  we  study. W
 
 ---
+## The Lunatick Moment
 
-## So Let's<br> Fail Gloriously<br> Together
+_...or, moving from 'failure' to Failing Gloriously!_
 
-Any students here? Imagine you were told to go adapt this:
-
-[https://github.com/msu-anthropology/daea-fs16](https://github.com/msu-anthropology/daea-fs16)
-
-for your own work. Where do you start? How do you start?
+<table>
+  <tr>
+    <th>![redemption1](failpics/redemption1.png)</th>
+    <th align="top">![redemption2](failpics/redemption2.png)</th>
+  </tr>
+</table>
 
 Note:
-Imagine you're given this link and told to go adapt it to your own project. Where do you start? How do you do it?
+-despair post & the response & the framing of what I was doing as perhaps more akin to Bethany’s ideas about our ‘lunatic’ moment. does that moment still exist? I hope it does
 
 ---
 
-## In what ways have we failed?
-<Br><Br>
-
-+ How did _I_ fail?
-+ How did _you_ fail?
-
-<br>
-Is 'fail' the right word here?
-
-Note:
-digital work is a team sport btw
+Some Pedagogical Thoughts Go Here!
 
 ---
+## What I've learned about <br>Failing Gloriously
+#### or, 'productive failure as pedagogy'
 
-## Let's try again.
-
-[http://imaginarysoundscape2.qosmo.jp/](http://imaginarysoundscape2.qosmo.jp/)
-
-Upload some sounds to this. What do you observe? What breaks?
-
-Note:
-Upload some sounds to this. What do you observe? What breaks?
+- frameworks and scaffolds
+- physical/digital spaces for explorations
+- appropriate eyes and audiences
+- uncoverage rather than coverage
 
 ---
 
@@ -221,16 +231,6 @@ Note:
 digital work suffers from this problem, of differentiating what sounds reasonable from what we already knew. let's take a look at what matthew lincoln says... it's a similar approach to what is being proposed in science papers, of 'preregistering' (there it's to combat fraud and p-hacking)
 
 ---
-
-## What I've learned about <br>Failing Gloriously
-#### or, 'productive failure as pedagogy'
-
-- frameworks and scaffolds
-- physical/digital spaces for explorations
-- appropriate eyes and audiences
-- uncoverage rather than coverage
-
----
 ### Academia is not set up to valorize 'failure'
 
 ---
@@ -241,30 +241,6 @@ digital work suffers from this problem, of differentiating what sounds reasonabl
 
 Note:
 Do we *ever* talk about research that *doesn’t* confirm an hypothesis? Do we *ever* try to replicate someone else’s study? - 20 000 articles topic model - No topic that explicitly deals with something *not* working - This, despite the processual turn, where you might’ve expected such a beast!
-
----
-## The Lunatick Moment
-
-_...or, moving from 'failure' to Failing Gloriously!_
-
-<table>
-  <tr>
-    <th>![redemption1](failpics/redemption1.png)</th>
-    <th align="top">![redemption2](failpics/redemption2.png)</th>
-  </tr>
-</table>
-
-Note:
--despair post & the response & the framing of what I was doing as perhaps more akin to Bethany’s ideas about our ‘lunatic’ moment. does that moment still exist? I hope it does
-
----
-
-### Brandon Walsh - 'Frustration is a Feature'
-
-> In DH we often valorize failure and what can be learned from it, but it can be difficult to know how to deal with the feelings associated with it...<br><Br> Beyond the content we teach and the act of learning it - our students are living in states of continual anxiety. To say nothing of the personal, social, or systemic traumas to which many of them have been subjected about which we may never know.
-
-Note:
-this is how I failed Marc in the welding class. re my current students - "If I wanted to study computers I wouldn't be taking history". How do I deal with the anxiety now? By focussing on process, rather than product. By insisting on full documentation of what they're doing, _why_ they're doing it, and how they see it _intersecting_ what they read, and their other classes.
 
 ---
 
