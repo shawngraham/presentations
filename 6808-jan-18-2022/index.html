@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title></title>
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="dist/theme/blood.css" id="theme" />
+    <link rel="stylesheet" href="plugin/highlight/zenburn.css" />
+	<link rel="stylesheet" href="css/layout.css" />
+	<link rel="stylesheet" href="plugin/customcontrols/style.css">
+
+
+    <script defer src="dist/fontawesome/all.min.js"></script>
+
+	<script type="text/javascript">
+		var forgetPop = true;
+		function onPopState(event) {
+			if(forgetPop){
+				forgetPop = false;
+			} else {
+				parent.postMessage(event.target.location.href, "app://obsidian.md");
+			}
+        }
+		window.onpopstate = onPopState;
+		window.onmessage = event => {
+			if(event.data == "reload"){
+				window.document.location.reload();
+			}
+			forgetPop = true;
+		}
+
+
+		document.onreadystatechange = () => {
+			if (document.readyState === 'complete') {
+				if (window.location.href.indexOf("?export") != -1){
+					parent.postMessage(event.target.location.href, "app://obsidian.md");
+				}
+				if (window.location.href.indexOf("print-pdf") != -1){
+					let stateCheck = setInterval(() => {
+						clearInterval(stateCheck);
+						window.print();
+					}, 250);
+				}
+			}
+	};
+
+
+        </script>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides"><section  data-markdown><script type="text/template">
+
+<!-- .slide: data-background-image="steamtrain.png" -->
+
+<style>
+	.references{
+		font-size: x-small;
+		position: absolute;
+		bottom: 8px;
+  		right: 16px;
+	}
+</style>
+
+<br><br><Br><Br><br><br><br>
+
+## A Whistlestop Tour 
+### Through Digital History
+
+#### or, we might all be digital, but are you digital _enough?_
+
+img: unsplash.com, [denis chick](https://unsplash.com/photos/mHqIs22M2Kw)
+<!-- .element: class="references" -->
+
+</script></section><section  data-markdown><script type="text/template">## The Current Moment Sucks
+<!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Tear_Gas_outside_United_States_Capitol_20210106.jpg/2880px-Tear_Gas_outside_United_States_Capitol_20210106.jpg" -->
+
+img: Wikimedia commons, [tyler merbler](https://en.wikipedia.org/wiki/2021_United_States_Capitol_attack#/media/File:Tear_Gas_outside_United_States_Capitol_20210106.jpg)
+<!-- .element: class="references" -->
+
+<aside class="notes"><p>how do we write the history of this moment? what kinds of frameworks or approaches can we use?</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+## But So Did Every Other Past Moment
+<!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6d/The_1834_destruction_of_both_Houses_of_Parliament_by_fire.jpg" -->
+
+img: [Wikimedia commons](https://commons.wikimedia.org/wiki/Category:Burning_of_Parliament#/media/File:The_1834_destruction_of_both_Houses_of_Parliament_by_fire.jpg)
+<!-- .element: class="references" -->
+
+
+<aside class="notes"><p>so what kinds of frameworks did you use? Where&#39;s the theory in digital history? What&#39;s uniquely special about digital</p>
+<p>Where&#39;s the method?</p>
+<p>Bah.</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+## Where I'm Coming From
+
+<!-- .slide: data-background-image="rome.png" -->
+
+img: via unsplash.com [Jakob Owens](https://unsplash.com/photos/lVvIEyVrr5M)
+<!-- .element: class="references" -->
+
+<aside class="notes"><p>essay as undergrad, the full story, yadda yadda yadda, archaeology training, continues to have an impact on everything i do</p>
+</aside></script></section><section  data-markdown><script type="text/template">
+## Assemblages vs Lines
+
+<!-- .slide: data-background-image="lines.png" -->
+
+img: via unsplash.com [Ryan Stone](https://unsplash.com/photos/_4MkAq-Aycg)
+<!-- .element: class="references" -->
+
+<aside class="notes"><p>lines travel; when they intersect with other lines they form knots.  Lines go along together: they correspond;</p>
+<p>&quot;And as things carry on together, and answer to one another, they do not<br>so much interact as correspond. Interaction is the dynamic of the<br>assemblage, where things are joined up. But correspondence is a<br>joining with; it is not additive but contrapuntal, not ‘and...and...and’<br>but ‘with...with...with&quot; <a href="https://knowingfromtheinside.org/files/correspondences.pdf">https://knowingfromtheinside.org/files/correspondences.pdf</a> p12</p>
+<p>wikipedia&#39;s handy: &quot;Assemblage theory asserts that, within a body, the relationships of component parts are not stable and fixed; rather, they can be displaced and replaced within and among other bodies, thus approaching systems through relations of exteriority.1(<a href="https://en.wikipedia.org/wiki/Assemblage_(philosophy)#cite_note-UT2016-1)&quot;&quot;">https://en.wikipedia.org/wiki/Assemblage_(philosophy)#cite_note-UT2016-1)&quot;&quot;</a></p>
+</aside></script></section><section  data-markdown><script type="text/template">
+## Networks & Enchantments
+
+<p style="line-height: 0" class="reset-paragraph"><img src="https://www.berghahnbooks.com/covers/GrahamEnchantment.jpg" alt="" ></img></p>
+
+
+<aside class="notes"><ul>
+<li>in my work: substrate for replaying history</li>
+<li>the medium of games is <em>agency</em>. </li>
+<li>I use networks to re-enchant the world, to replay the world, to inscribe ideas of past agency into &#39;artifactual vessels&#39; to communicate forms of past agency</li>
+</ul>
+<p>C. Thi Nguyen: They are a method for inscribing forms of agency into artifactual vessels: for recording them, preserving them, and passing them around. And we possess a special ability: we can be fluid with our agency and submerge ourselves in alternate agencies designed by another. In other words, we can use games  as to communicate forms of agency</p>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: data-background-image="icecream.png" -->
+<Br><br>
+## Flavours of digital history
+
+img: unsplash.com, [andris romanovskis](https://unsplash.com/photos/WaPEDF_JwWE)
+<!-- .element: class="references" -->
+
+There's a difference between using digital technology to do your work vs **using** extending your historical consciousness 
+
+<aside class="notes"><ul>
+<li>&#39;we&#39;re all digital now&#39; &lt;- yes, but doesn&#39;t make you a digital historian. But <em>could</em> make you a <em>better</em> historian<ul>
+<li>data management: zotero, tropy, obsidian, some sort of annotation system for works that are digital</li>
+</ul>
+</li>
+</ul>
+</aside></script></section><section ><section data-markdown><script type="text/template">- storytelling [see Meranda's project](https://merandagp.github.io/MyMechanicsvilleMemories/); includes games, playful engagements
+- maps [see 'Slave Revolt in Jamaica'](http://revolt.axismaps.com/) |nb not GIS!
+- text analysis [see this approach using topic models](https://academic-oup-com.proxy.library.carleton.ca/dsh/article/36/4/886/6202987)
+- image work [see Arnold & Tilton's work](https://www.distantviewing.org/pdf/distant-viewing.pdf)
+- [cultural heritage management](https://www.archesproject.org/)
+
+<aside class="notes"><ul>
+<li>something that should be more present but isn&#39;t: reproducibility &amp; replicability</li>
+<li>all of these can intersect with public history</li>
+<li>and all of these start to impose collaboration on traditionally lone-heroic-history-scholars</li>
+<li>even an archival visit sourcery app: <a href="https://shawngraham.github.io/didactic-dollop/">https://shawngraham.github.io/didactic-dollop/</a></li>
+</ul>
+</aside></script></section><section data-markdown><script type="text/template">
+## You Need These Now
+
+- citation management. [Zotero](https://zotero.org) or equivalent
+- research photo management [Tropy](https://tropy.org)
+- personal knowledge management [Obsidian](https://obsidian.md) or [Zettlr](https://www.zettlr.com/) or equivalent
+- granular writing [Scrivener](https://forum.literatureandlatte.com/) or equivalent
+</script></section><section data-markdown><script type="text/template">
+## But that still won't make you a 'digital' historian
+
+- Key thing: if, as part of your historical approach, you are considering the impact of how digital technologies represent ( <i>RE</i>-present) historical materials **or** you are using your historical sensibility to question our current technomoment
+
+.... you *might* be a digital historian
+</script></section><section data-markdown><script type="text/template">
+## You don't need to know how to code
+
+Yet. 
+
+But it might enable you to ask more sophisticated questions.
+
+```
+**If** 'code' means: do some kind of analysis, maybe even statistics 
+	 **then**
+	 do: Intro to Cultural Analytics
+```
+
+- [Introduction to Cultural Analytics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)
+- [The Programming Historian](https://programminghistorian.org/) 
+
+<aside class="notes"><p>paradata: the metadata of your process</p>
+</aside></script></section></section><section  data-markdown><script type="text/template">
+Metadata is more important than you thought
+
+See [‘Q i-jtb the Raven’: Taking Dirty OCR Seriously](https://ryancordell.org/research/qijtb-the-raven-mla/)
+
+<aside class="notes"><p>Data feminism stuff from macroscope book</p>
+<ul>
+<li>creation of datasets is an act of power; a choice over what gets counted;</li>
+<li>visualization a powerful rhetoric for highlight/occluding voices</li>
+<li>visualization an act of interpretation. drucker says &#39;don&#39;t visualize. <em>model interpretations</em>.</li>
+<li>metadata/paradata/data</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template">
+# Semantic Data
+<!-- .slide: data-background-image="web.png" -->
+
+img: unsplash.com, [bas van den eijkhof](https://unsplash.com/photos/aJfOuWeNzko)
+<!-- .element: class="references" -->
+- [a gentle introduction](http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-1/)
+- [lincs project](https://lincsproject.ca/)
+- [nanohistory](https://www.nanohistory.org/)
+</script></section><section  data-markdown><script type="text/template">
+# So what is 'good digital history'?
+
+<aside class="notes"><ul>
+<li>can not be made &#39;equivalent&#39; to print outputs or their digital skeumorphs.</li>
+<li>it&#39;s not about what becomes known but how we come to know them. thus the goal posts are always changing. once you could digitize something and it was transformative; but now that merely counts as good basic practice <em>unless the material hasn&#39;t been digitized before</em> . But then you have to discuss and think about how that process happened: see quoth the raven by Ryan Cordell</li>
+<li>often can be public facing; but the &#39;authority&#39; of the interface always has to be critiqued</li>
+<li>it takes risks; productive/glorious failures</li>
+<li>the code is valuable and ought be considered a research output/publication in its own right</li>
+<li>the information we work with, when ethically/legally possible, should also be availalbe; failing that, perhaps our notes (caleb mcdaniel open notebook data)</li>
+<li>it discusses what works, what hasn&#39;t, and the implications</li>
+<li>it enables others to build on it in meaningful ways (not just simple line items in the lit review) - it permits new ways of seeing, new questions</li>
+</ul>
+</aside></script></section><section  data-markdown><script type="text/template"><!-- .slide: data-background-image="fail.png" -->
+## Fail Gloriously
+
+img: unsplash.com, [quino al](https://unsplash.com/photos/P05VBPvNr3s)
+<!-- .element: class="references" -->
+
+
+<aside class="notes"><p>Digital techs break. Understand why, and how, and the implications. Share - as is safe for you to do so, given your context -  the result, share that &#39;why&#39;. </p>
+<p>Digital history is a team sport. Find your team. Fail gloriously.</p>
+</aside></script></section></div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+    <script src="plugin/zoom/zoom.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/math/math.js"></script>
+	<script src="plugin/mermaid/mermaid.js"></script>
+	<script src="plugin/customcontrols/plugin.js"></script>
+
+    <script>
+      function extend() {
+        var target = {};
+        for (var i = 0; i < arguments.length; i++) {
+          var source = arguments[i];
+          for (var key in source) {
+            if (source.hasOwnProperty(key)) {
+              target[key] = source[key];
+            }
+          }
+        }
+        return target;
+      }
+
+      // default options to init reveal.js
+      var defaultOptions = {
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        plugins: [
+          RevealMarkdown,
+          RevealHighlight,
+          RevealZoom,
+          RevealNotes,
+          RevealMath,
+		  RevealMermaid,
+		  RevealCustomControls,
+        ],
+
+		customcontrols: {
+			controls: [
+				{id: 'toggle-overview',
+				title: 'Toggle overview (O)',
+				icon: '<i class="fa fa-th"></i>',
+				action: 'Reveal.toggleOverview();'
+				},
+			]
+		},
+      };
+
+      // options from URL query string
+      var queryOptions = Reveal().getQueryHash() || {};
+
+      var options = extend(defaultOptions, {"width":960,"height":700,"margin":0.04,"controls":true,"progress":true,"slideNumber":true,"transition":"fade","transitionSpeed":"default"}, queryOptions);
+    </script>
+
+    <script>
+      Reveal.initialize(options);
+    </script>
+  </body>
+</html>
